@@ -1,5 +1,5 @@
 # Off the Record
-Off the Record is the Hotchkiss Record's Newsletter, distributed bi-weekly on off-weeks of the print run to the student body as well as subscribers. 
+Off the Record is the Hotchkiss Record's Newsletter, distributed bi-weekly on the off-weeks of the print run to the student body as well as subscribers. 
 
 ## Installation
 Off the Record is compiled in [`mjml`](https://mjml.io/), using [`node.js`](https://nodejs.org/en/). It is sent as HTML embed within an email. To set up the environment––run
