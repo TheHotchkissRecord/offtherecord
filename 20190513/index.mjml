@@ -40,7 +40,7 @@
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="100%">
           <mj-text color="#637381" font-size="16px">
-            We know you might be stressed with AP exams, but take a break and have a look at <i>the Record's</i> latest online articles. Be on the lookout for an inside look of the best dorm rooms on campus in our upcoming print issue on Thursday!
+            We know you might be stressed with AP exams, but take a break and have a look at <i>The Record's</i> latest online articles. Be on the lookout for an inside look of the best dorm rooms on campus in our upcoming print issue on Thursday!
             <br /><br /> - <i>The Record Editorial Board</i>
           </mj-text>
         </mj-column>
@@ -117,7 +117,7 @@
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
         <mj-column width="100%">
           <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
-            <i> <!-- Caption --> </i>
+            <i>An image from the scene of the shooting. </i>
           </mj-text>
           <mj-text color="#212b35" font-weight="bold" font-size="20px">
             The UNC-Charlotte Shooting: Where do we go from here?
@@ -139,7 +139,6 @@
       <!-- Start of an article preview -->
       <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
         <mj-column width="100%">
-          <mj-image src="https://newsletter.thehr.org/thumbnail.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/05/students-stage-sit-in-in-deans-wing/" />
         </mj-column>
       </mj-section>
       <!-- Start of text -->
@@ -155,8 +154,8 @@
             Ally Fertig '20
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            On Monday, April 29, students held a sit-in in the deans’ wing to encourage the administration to respond to student concerns about support in the wake of hate incidents, both within the Hotchkiss community and in the outside world. Students remained
-            silent in the Deans’ Wing until the Administration agreed to work with the students to devise a response plan and offer additional training for students leaders.
+            On Monday, April 29, students held a sit-in in the Deans’ Wing to encourage the administration to respond to student concerns about support in the wake of hate incidents, both within the community and in the outside world. Students remained silent in
+            the Deans’ Wing until the Administration agreed to work with the students to devise a response plan and offer additional training for students leaders.
           </mj-text>
           <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/05/students-stage-sit-in-in-deans-wing/" width="300px">
             Continue Reading
