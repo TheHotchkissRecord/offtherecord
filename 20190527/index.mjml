@@ -1,0 +1,196 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - May 13, 2019</mj-title>
+    <!-- Description -->
+    <mj-preview>Holocaust Remembrance Day, Marvel Cinematic Universe Review, UNC-C Shooting Commentary, and more. </mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/offtherecord_dark.png" alt="" align="center" width="400px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Monday, May 13, 2019
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            We know you might be stressed with AP exams, but take a break and have a look at <i>The Record's</i> latest online articles. Be on the lookout for an inside look at the best dorm rooms on campus in our upcoming print issue on Thursday!
+            <br /><br /> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Start of an article preview -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2019/05/4-inf-war.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/05/the-marvel-cinematic-universe-ranked-by-editors/" />
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+            <i> The promotional poster for Avengers: Infinity War.  </i>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            The Marvel Cinematic Universe: Ranked by Editors
+          </mj-text>
+          <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+            Arhan Chhabra '22 and Toby Pouler '20
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            With the recent release of “Avengers: Endgame,” Arhan Chhabra and Toby Pouler discuss and rank all 22 films in the Marvel Cinematic Universe (MCU).
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/05/the-marvel-cinematic-universe-ranked-by-editors/" width="300px">
+            Continue Reading
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+
+      <!-- Start of an article preview -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2019/05/garrett.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/05/former-neo-nazi-speaks-at-hotchkiss/" />
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+            <i>Garrett speaks to the student body about his experiences. </i>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Former Neo-Nazi Speaks at Hotchkiss
+          </mj-text>
+          <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+            Samarth Puthanmadhom '22
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Last Thursday, May 2, was Yom HaShoah, or Holocaust Remembrance day. On this day, Hotchkiss invited speaker TM Garret, a former Neo-Nazi, member of the KKK, and White Supremacist, who spoke on his experience recovering from hate. Now, he is a humans rights
+            activist who founded the non-profit organization Care, Hope, Awareness, Need, Give and Education (C.H.A.N.G.E ), an organization based in Memphis, Tennessee, directed for community outreach.
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/05/former-neo-nazi-speaks-at-hotchkiss/" width="300px">
+            Continue Reading
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+
+
+      <!-- Start of an article preview -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2019/05/uncc-image.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/05/the-unc-charlotte-shooting-where-do-we-go-from-here/" />
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+            <i>An image from the scene of the shooting. </i>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            The UNC-Charlotte Shooting: Where do we go from here?
+          </mj-text>
+          <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+            Liv Parsons '21
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            “That was just who he was”, said Mrs. Henry-Howell, mother to Riley Howell, whose life was tragically taken in the recent shooting on the University of North Carolina (UNC) Charlotte campus (The New York Times). On Tuesday, April 30, a UNC student opened
+            fire on a crowded college classroom. The 22-year-old shooter, Trystan Andrew Terrell, pulled out his handgun during class, killing two and leaving four others injured.
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/05/the-unc-charlotte-shooting-where-do-we-go-from-here/" width="300px">
+            Continue Reading
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+            <i> <!-- Caption --> </i>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Students Stage Sit-In in Deans’ Wing
+          </mj-text>
+          <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+            Ally Fertig '20
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            On Monday, April 29, students held a sit-in in the Deans’ Wing to encourage the administration to respond to student concerns about support in the wake of hate incidents, both within the community and in the outside world. Students remained silent in
+            the Deans’ Wing until the Administration agreed to work with the students to devise a response plan and offer additional training for students leaders.
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/05/students-stage-sit-in-in-deans-wing/" width="300px">
+            Continue Reading
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://offtherecord.thehr.org/20190513/index.html">View this email in your browser</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2019 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br /> The Hotchkiss Record <br /> 11 Interlaken Rd <br /> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
