@@ -134,4 +134,4 @@ mjml -r yyyymmdd/newsletter.mjml -o yyyymmdd/index.html
 ```
 
 ## To-Do
- - ~~Create automation to build newsletter automatically. ~~ (This is done! *Henry* is [here](https://github.com/TheHotchkissRecord/henry))
+ - ~~Create automation to build newsletter automatically.~~ (This is done! *Henry* is [here](https://github.com/TheHotchkissRecord/henry))
