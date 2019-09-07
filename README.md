@@ -1,4 +1,4 @@
-# Off the Record
+# <img src="https://graphics.thehr.org/newsletter/offtherecord.png" alt="Off the Record Banner" width="50%"/>
 Off the Record is the Hotchkiss Record's Newsletter, distributed bi-weekly on the off-weeks of the print run to the student body as well as subscribers. 
 
 ## Installation
