@@ -1,0 +1,275 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - April 13, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>We're excited to share with you the first online issue of the Record this spring!</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight=400 font-size=16px color=#000000 line-height=24px font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline=inline> .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); } </mj-style>
+    <mj-style inline=inline> .text-link { color: #5e6ebf } </mj-style>
+    <mj-style inline=inline> .footer-link { color: #888888 } </mj-style>
+  </mj-head>
+  <mj-body background-color=#E7E7E7 width=600px>
+    <!-- BODY CONTENT -->
+    <mj-section full-width=full-width background-color=#02174c padding-bottom=0>
+      <mj-column width=100%>
+        <mj-image src=https://graphics.thehr.org/misc/google_form.png alt align=center width=600px />
+        <mj-text color=#ffffff font-weight=bold align=center text-transform=uppercase font-size=16px letter-spacing=1px padding-top=30px>
+          <!-- Date -->Monday, April 13, 2020 <br> <span style="color: #979797; font-weight: normal">-</span> </mj-text>
+        <mj-text color=#17CBC4 align=center font-size=13px padding-top=0 font-weight=bold text-transform=uppercase letter-spacing=1px line-height=30px>
+        Lakeville, CT </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top=0 padding-bottom=0 css-class=body-section>
+      <!-- TEXT CONTENT -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=16px> We're excited to share with you the first online issue of <i>The Record</i> this spring! Please feel free to click the "Continue Reading" buttons below each preview, which will take you to the full article on our website. If you like what you see and are interested
+            in contributing, we'll be sending out an email shortly with steps to sign up for an assignment. Have a great week! <br><br> - <i>The Record Editorial Board</i> </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/32DA63F6-E448-4F7C-85E9-3A8428E10540-1-900x675.jpeg
+          /> </mj-column>
+      </mj-section>
+          <!-- Thumbnail -->
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i>Luminaries lit up Main Circle last Saturday evening.</i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Community Continues Despite COVID-19 Crisis </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Lauren McLane ’23 </mj-text>
+          <mj-text color=#637381 font-size=16px> While the COVID-19 pandemic has physically separated the community, the school has continued to find ways to come together virtually.</mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/community-continues-through-covid-19-crisis/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/sharon-field-hospital.jpg width=600px alt padding=0 href=https://hotchkissrecord.org/2020/04/sharon-field-hospital-provides-extra-covid-19-relief/ /> </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i>Members of the Connecticut militia set up a temporary field hospital in the Sharon Hospital parking lot for recovering COVID-19 patients this past Friday. Credit: Cynthia Hochswender | The Lakeville Journal</i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Sharon Field Hospital Provides Extra COVID-19 Relief </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Isabel Su ’22 and Kiki Henry ’22 </mj-text>
+          <mj-text color=#637381 font-size=16px> With COVID-19 still spreading rapidly worldwide, hospitals have been looking for innovative ways to find room for infected patients to recover. On April 10, members of the Connecticut militia came to Sharon Hospital, owned by Health Quest/Nuvance
+            Health, in Sharon, Connecticut to set up a temporary field hospital in the parking lot for recovering COVID-19 patients. The field hospital is equipped with 25 beds and has running electricity, heat, and hot and cold running water. </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/sharon-field-hospital-provides-extra-covid-19-relief/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/1908-SB-37-Hunt-Inf-interior-.jpeg width=600px alt padding=0 href=https://hotchkissrecord.org/2020/04/impacts-of-epidemics-and-wars-on-hotchkiss/ /> </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i>A ward bed in the Huntress Infirmary, in 1908, taken by Raymond Bowen, Class of 1908. Credit: Raymond Bowen '08 Scrapbook, Hotchkiss Archives & Special Collections</i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Impacts of Epidemics and Wars on Hotchkiss </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Vivian Shi ’23 and Amelie Zhang ’23 </mj-text>
+          <mj-text color=#637381 font-size=16px> Zoom classes did not seem like the future of the fourth marking period when students packed their belongings in early March. However, it is not the first time the school has had to change its style of learning. </mj-text>
+          <mj-button background-color=#202F5A
+            align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/impacts-of-epidemics-and-wars-on-hotchkiss/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/Craig-Bradley_LR.jpg width=600px alt padding=0 href=https://hotchkissrecord.org/2020/04/behind-the-scenes-of-the-front-gates/ /> </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i>Credit: Communications</i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Behind the Scenes of the Front Gates </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Anika Balwada ’23 </mj-text>
+          <mj-text color=#637381 font-size=16px><i>As we begin our third week of online learning,</i> The Record<i> is honored to interview Mr. Craig Bradley, head of school, for insight on the administration’s decisions in response to the COVID-19 pandemic. </i> </mj-text>
+          <mj-button background-color=#202F5A
+            align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/behind-the-scenes-of-the-front-gates/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <!-- Thumbnail -->
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i></i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px>Opinion: How We Kneel Down to Fast Fashion </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Jessica Kim ’21 </mj-text>
+          <mj-text color=#637381 font-size=16px> It’s not an exaggeration to say that one of the busiest places in our campus is the mail room. Whether it’s a week before the Halloween dance, Homecoming, Blue and White, Senior dance, or the numerous events that require special costumes or
+            a dress code, the package room fills with boxes from clothing orders. Technology has enabled quicker, more efficient ways for consumers to shop online. This developed technology has benefited society in various ways. For instance, just like
+            food delivery apps now help millions of people in self-quarantine, online shopping websites are frequented far more often than conventional stores. However, the culture of fast fashion is severely damaging the environment by creating and entrenching
+            wasteful habits in consumers. </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/how-we-kneel-down-to-fast-fashion/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <!-- Thumbnail -->
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i></i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px>Opinion: Equal Access, Not Equal Attitude </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Eve Kantaros '21 </mj-text>
+          <mj-text color=#637381 font-size=16px> Title IX, implemented in 1972, forbids educational systems from discriminating on the basis of sex. Since its implementation, according to Women’s Sports Foundation, the percentage of women playing college sports has increased by 545%, and the
+            percentage of women playing high school sports has increased by 990%. Unfortunately, equal access to sports did not result in equal attitudes toward female athletes. Different forms of discrimination still exist toward female athletes amongst
+            peers, coaches, parents, trainers, doctors, and physical therapists. The biases are often so subtle that both the offender and the athlete may not even recognize them. These discriminatory attitudes impact the lessons of teamwork, grit, and
+            leadership young girls and women should be learning from sports and can carry with them throughout their lives. </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/equal-access-not-equal-attitude/
+            width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/DSC02271-min-copy-900x600.jpg width=600px alt padding=0 href=https://hotchkissrecord.org/2020/04/artist-of-the-issue-shine-lee-20/ /> </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i>From left to right: Shine Lee ’20, Q Zhang ’18, and Frank Cai ’20 won the silver prize in the 2018 Chinese Club Stir-Fry Competition.</i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Artist of the Issue: Shine Lee ’20 </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Jiahua Chen ’20 </mj-text>
+          <mj-text color=#637381 font-size=16px> Shine Lee ’20 is a four-year senior, an avid cook, a member of the orchestra, and a poet. Angela Choi ’21, the orchestra’s concertmaster, says that “Shine’s laugh and smile lights up the orchestra rehearsal, and I’d hate to imagine first period
+            Monday [rehearsal] without him.” In this issue, Arts & Leisure highlights the multiple forms of art in which Shine has been involved over his high school career. </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px
+            font-weight=bold href=https://hotchkissrecord.org/2020/04/artist-of-the-issue-shine-lee-20/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/John_William_Waterhouse_-_The_Favorites_of_the_Emperor_Honorius_-_1883-900x514.jpg width=600px alt padding=0 href=https://hotchkissrecord.org/2020/04/just-3-historical-instances-of-impossible-stupidity/
+          /> </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i>John William Waterhouse – The Favorites of the Emperor Honorius – 1883</i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Personal History Column: (Just) 3 Historical Instances of Impossible Stupidity </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Cooper Roh ’22 </mj-text>
+          <mj-text color=#637381 font-size=16px> Of the thousands upon thousands of lessons history has given us, undoubtedly the most important are as follows: Never get involved in a land war in Asia, and never go against a Sicilian when death is on the line. However, were we to add a third
+            to that illustrious list, it would be the following: Never underestimate mankind’s capacity for unfathomable, almost inspiring stupidity. In that vein, here are just three hilariously painful and painfully hilarious examples of humanity’s
+            unadulterated idiocy. </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/just-3-historical-instances-of-impossible-stupidity/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/IMG_1133.jpg width=600px alt padding=0 href=https://hotchkissrecord.org/2020/04/athlete-of-the-issue-dillon-cleary-20/ /> </mj-column>
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i>Dillon Cleary ’20 is a four-year senior and four-year member of the Boy’s Varsity Baseball team. Credit: Dillon Cleary ’20</i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Athlete of the Issue: Dillon Cleary ’20 </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Carrie Cao '23 </mj-text>
+          <mj-text color=#637381 font-size=16px> Dillon Cleary ’20 is a four-year senior and four-year member of the Boy’s Varsity Baseball team. Cleary is also on the JV Cross Country team in the fall. Teammate Carlos Martinez ’22 said, “[Dillon is] one of the hardest workers on the team.
+            He puts in a lot of work and pushes us all until we have nothing left. He’s also super passionate and it shows in games when he speaks and plays. He’s also good company, we all love to be around Dillon. He’s a funny guy who’s kind and relatable.”
+            </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/athlete-of-the-issue-dillon-cleary-20/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+<mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <mj-image src=https://hotchkissrecord.org/wp-content/uploads/2020/04/Screen-Shot-2020-04-13-at-9.38.19-PM.png href=https://hotchkissrecord.org/2020/04/day-in-the-life-of-brian-haywood-21/
+          /> </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i></i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Vlog: A Day in the Life of Brian Haywood ’21</mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> Brian Haywood ’21 & Doug Wang ’23 </mj-text>
+          <mj-text color=#637381 font-size=16px> <iframe src=https://player.vimeo.com/video/407407738 width=320 height=240 frameborder=0 allow="autoplay; fullscreen" allowfullscreen></iframe>
+            <p>Brian Haywood ’21 teamed up with Doug Wang ’23, photo editor, to produce a vlog about the day in the life of a quarantined student.</p>
+          </mj-text>
+          </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/day-in-the-life-of-a-quarantined-student/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Start of an article preview -->
+      <mj-section full-width=full-width background-color=#ffffff padding-bottom=0>
+        <mj-column width=100%>
+          <!-- Thumbnail -->
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color=#ffffff padding-left=15px padding-right=15px>
+        <mj-column width=100%>
+          <mj-text color=#637381 font-size=12px align=right padding-right=5px> <i></i> </mj-text>
+          <mj-text color=#212b35 font-weight=bold font-size=20px> Editorial: The Power of Narrative </mj-text>
+          <mj-text color=#212b35 font-size=12px height=15px font-weight=bold> The CXXII Executive Board </mj-text>
+          <mj-text color=#637381 font-size=16px> “What is the purpose of your paper?” The four of us on the Executive Board sat in the lounge, meeting the gazes of each other, unsure of how to answer the Yale Daily News (YDN) staff member who asked this question. We had traveled to the YDN
+            High School Journalism Symposium in search of techniques to improve our newspaper, but instead found ourselves struggling with a more fundamental question: what is our purpose? </mj-text>
+          <mj-button background-color=#202F5A align=center color=#ffffff
+            font-size=17px font-weight=bold href=https://hotchkissrecord.org/2020/04/the-power-of-narrative/ width=300px> Continue Reading </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width=100% padding=0>
+          <mj-social font-size=15px icon-size=30px mode=horizontal padding=0 align=center>
+            <mj-social-element name=instagram href=https://www.instagram.com/hotchkissrecord/ background-color=#A1A0A0> </mj-social-element>
+            <mj-social-element name=web href=https://hotchkissrecord.org/ background-color=#A1A0A0> </mj-social-element>
+          </mj-social>
+          <mj-text color=#445566 font-size=11px font-weight=bold align=center> <a href=https://hotchkissrecord.org/errata/>View errata for previous issues.</a> </mj-text>
+          <mj-text color=#445566 font-size=11px font-weight=bold align=center> <a href=https://newsletter.thehr.org/20200413/index.html>View this email in your browser</a> </mj-text>
+          <mj-text color=#445566 font-size=11px align=center line-height=16px> Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community. </mj-text>
+          <mj-text color=#445566 font-size=11px align=center line-height=16px> <b>Our mailing address is:</b><br> The Hotchkiss Record <br> 11 Interlaken Rd <br> Lakeville, CT 06039-2141 </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top=0>
+        <mj-group>
+          <mj-column width=100% padding-right=0>
+            <mj-text color=#445566 font-size=11px align=center line-height=16px font-weight=bold> </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

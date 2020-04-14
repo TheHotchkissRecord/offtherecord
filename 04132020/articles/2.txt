@@ -1,0 +1,17 @@
+Article title (on next line): 
+Sharon Field Hospital Provides Extra COVID-19 Relief
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/sharon-field-hospital-provides-extra-covid-19-relief/
+
+Byline (FirstName LastName '19): 
+Isabel Su ’22 and Kiki Henry ’22
+
+Content preview: 
+With COVID-19 still spreading rapidly worldwide, hospitals have been looking for innovative ways to find room for infected patients to recover. On April 10, members of the Connecticut militia came to Sharon Hospital, owned by Health Quest/Nuvance Health, in Sharon, Connecticut to set up a temporary field hospital in the parking lot for recovering COVID-19 patients. The field hospital is equipped with 25 beds and has running electricity, heat, and hot and cold running water.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Members of the Connecticut militia set up a temporary field hospital in the Sharon Hospital parking lot for recovering COVID-19 patients this past Friday.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/04/sharon-field-hospital.jpg

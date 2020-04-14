@@ -1,0 +1,2 @@
+Input the editorial message on the next line: 
+We're excited to share with you the first online issue of the Record! Please feel free to click the "Continue Reading" buttons below each preview, which will take you to the full article on our website. If you like what you see and are interested in contributing, we'll be sending out an email shortly with steps to sign up for an assignment. Have a great week!

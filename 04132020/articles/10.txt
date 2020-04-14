@@ -1,0 +1,16 @@
+Article title (on next line): 
+Day in the Life of a Quarantined Student
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/day-in-the-life-of-a-quarantined-student/
+
+Byline (FirstName LastName '19): 
+Brian Haywood ’21 & Doug Wang ’23
+
+Content preview: 
+<iframe src="https://player.vimeo.com/video/407407738" width="320" height="240" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>Brian Haywood ’21 teamed up with Doug Wang ’23, photo editor, to produce a vlog about the day in the life of a quarantined student.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
