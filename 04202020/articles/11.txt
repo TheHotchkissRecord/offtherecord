@@ -1,0 +1,17 @@
+Article title (on next line): 
+Personal History Column: (Just) Two More Historical Instances of Impossible Stupidity
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/personal-history-column-just-two-more-historical-instances-of-impossible-stupidity/
+
+Byline (FirstName LastName '19): 
+Cooper Roh '22, Contributing Writer
+
+Content preview: 
+After the Japanese Navy attacked the Russian Pacific Fleet in 1904, Tsar Nicholas II decided to dispatch the Russian Baltic Fleet to their aid. To put it politely, the subsequent 18,000-mile voyage was more disastrous and achingly stupider than this article can do justice, but their crowning moment of stupidity came right after setting sail from St. Petersburg and entering the North Sea.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+After the Japanese Navy attacked the Russian Pacific Fleet in 1904, Tsar Nicholas II decided to dispatch the Russian Baltic Fleet to their aid.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/04/Dogger_Bank_Russian_Outrage_incident_1904_postcard.jpg

@@ -1,1 +1,2 @@
 Input the editorial message on the next line: 
+We hope you enjoy the second edition of our weekly newsletter! Keep an eye out for an email with more instructions on how you can help contribute to the Record.

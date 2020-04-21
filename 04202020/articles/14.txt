@@ -1,0 +1,16 @@
+Article title (on next line): 
+Help Us Help You
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/help-us-help-you/
+
+Byline (FirstName LastName '19): 
+The CXXII Executive Board
+
+Content preview: 
+The Record is a community effort. It is not just our large editorial board that helps produce every weekly issue—there are many more people involved. To give you an idea, we reach out to nearly 50 people for every eight-page issue. Without realizing it or not, nearly everyone in the community has contributed to The Record in some way: in an interview, in a photo, or an initiative The Record was covering. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
