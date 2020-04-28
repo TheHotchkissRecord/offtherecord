@@ -1,0 +1,2 @@
+Input errata on the next line only (styled with HTML, one line): 
+<em><strong>December 12, 2019</strong></em><div><ul><li>In <i>"<u>Quiz Bowl Competes at UPenn</u>" </i>(News, <i>p.2</i>), the founder of the Quiz Bowl team was incorrectly stated. Aaron Stone '19 founded the team.</li></ul>

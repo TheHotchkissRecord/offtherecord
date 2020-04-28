@@ -1,0 +1,16 @@
+Article title (on next line): 
+Advice from Athletes
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/advice-from-athletes/
+
+Byline (FirstName LastName '19): 
+Margo Donohue ’22, Hannah Goldberg ’22, & Rachel Mokriski ’21, Sports Editors
+
+Content preview: 
+This week, Sports Editors Margo Donohue ’22, Hannah Goldberg ’22, and Rachel Mokriski ’21 interviewed Senior athletes for advice. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 

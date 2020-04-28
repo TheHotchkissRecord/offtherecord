@@ -1,0 +1,17 @@
+Article title (on next line): 
+Review: Fox? CNN? NBC? Nah, SGN.
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/review-fox-cnn-nbc-nah-sgn/
+
+Byline (FirstName LastName '19): 
+Jiahua Chen '20, Staff Cartoonist
+
+Content preview: 
+If there is one good creation to come out of the current ordeal, it is John Krasinski’s new YouTube show, Some Good News. As the name suggests, Some Good News features uplifting news stories in a world dominated by disheartening stories. In a day and age where the media is permeated with Trump’s latest briefing (please don’t ingest disinfectant) or constantly bombarded with reopening speculations and recession woes, some good news is certainly welcome, keeping our self-quarantining, social-distancing, home-isolating minds sane. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Krasinski is known for his acting in various television shows such as The Office and Tom Clancy’s Jack Ryan.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/04/John-Krasinski-slefie.jpg

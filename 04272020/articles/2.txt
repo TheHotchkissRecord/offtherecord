@@ -1,0 +1,17 @@
+Article title (on next line): 
+Community Efforts in Fighting the Coronavirus
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/community-efforts-in-fighting-the-coronavirus/
+
+Byline (FirstName LastName '19): 
+Darina Huang ’23, Contributing Writer
+
+Content preview: 
+As the number of COVID-19 cases tops three million internationally, community members have been working hard to contribute to the fight against the pandemic.  
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Photo | Nancy Vaughn<br/>Community members have helped sew handmade masks and other PPE.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/04/Vaughn-Masks-900x506.jpg

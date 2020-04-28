@@ -1,0 +1,17 @@
+Article title (on next line): 
+Professional Sports during the Coronavirus
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/professional-sports-during-the-coronavirus/
+
+Byline (FirstName LastName '19): 
+Thomas Bailey ’22, Contributing Writer
+
+Content preview: 
+After health concerns continued to grow in early March, the effects of COVID-19 started to take a visible toll on American life. In addition to restaurants and businesses, sports programs across the country have also been forced to adjust to the situation. In early March, the National Basketball Association (NBA), Major League Baseball (MLB), National Hockey League (NHL), and National Football League (NFL) suspended all games and operations to protect the health of athletes and fans alike.  
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Photo | Martin Meissner<br/>Sports programs across the country have been forced to adjust to the COVID-19 pandemic.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/04/Martin-Meissner-Stadium.jpg

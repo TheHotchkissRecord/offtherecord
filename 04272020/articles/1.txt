@@ -1,0 +1,17 @@
+Article title (on next line): 
+St. Luke’s Provides Virtual Service Opportunities
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/st-lukes-provides-virtual-service-opportunities/
+
+Byline (FirstName LastName '19): 
+Lauren McLane ’23, Staff Writer
+
+Content preview: 
+During the COVID-19 pandemic, St. Luke’s Society has adapted and added new virtual service opportunities. While regularly scheduled events and fundraisers such as the Color Run and the Red Cross Blood Drive have been cancelled, the club is trying to replicate the spirit of some of these events virtually.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Photo | St. Luke’s Society<br/>St. Luke’s Society is the oldest club dedicated to community service on campus, offering several different local and all-school community service events and fundraisers every year.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/04/Screenshot_20200419-201501_Instagram.jpg

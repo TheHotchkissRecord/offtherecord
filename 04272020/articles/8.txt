@@ -1,0 +1,17 @@
+Article title (on next line): 
+Personal History Column: Three Pieces of Wholesome History
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/04/three-pieces-of-wholesome-history/
+
+Byline (FirstName LastName '19): 
+Cooper Roh ’22, Contributing Writer
+
+Content preview: 
+It can be all too easy to focus on the negative, especially in times like these. Yet we should often remember that the deepest, darkest hours bring out the best in humanity. Here are just three examples.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Photo | Gavin Sheridan<br/>Kindred Spirits, a sculpture in Midleton, Ireland, commemorates the Choctaw Nation’s 1847 relief donation to Ireland.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/04/Gavin_Sheridan_kindredspirits.jpg

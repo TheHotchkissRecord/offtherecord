@@ -1,0 +1,2 @@
+Give a description of the newsletter, this will be used as the email preview. Begin on the next line: 
+This issue, take a moment to learn more about the ways the community is fighting the COVID-19 pandemic, or relax with some uplifting stories and reviews.
