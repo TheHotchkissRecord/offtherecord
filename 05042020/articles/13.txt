@@ -1,0 +1,20 @@
+Article title (on next line): 
+NFL Brings Hope for Exciting Season
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/05/nfl-brings-hope-for-exciting-season/
+
+Byline (FirstName LastName '19): 
+Alex Cheng ’23, Staff Writer
+
+Content preview: 
+After three months of painstaking waiting, the National Football League (NFL) Draft finally arrived on April 23. Often the tipping point between contenders and pretenders, the 2020 draft came with its fair share of surprises and steals.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+The NFL draft arrived on April 23.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+NFL
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/05/1200px-2020_NFL_Draft_logo.svg-900x840.png

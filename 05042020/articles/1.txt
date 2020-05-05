@@ -1,0 +1,20 @@
+Article title (on next line): 
+Pandemic Causes Spike in Domestic Violence
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/05/pandemic-causes-spike-in-domestic-violence/
+
+Byline (FirstName LastName '19): 
+Maisy Seckler ’23, Contributing Writer
+
+Content preview: 
+“We’re all in the same boat,” many people have said since the start of the COVID-19 pandemic. However, while some people are practicing social distancing with supportive family members, others are in danger because quarantine rules have trapped them in unsafe environments with harmful partners or family members.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+A fundraising initiative started by Alaina Colby ’21, Defense for the Defenseless, encourages people to donate towards the National Coalition Against Domestic Violence.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Defense for the Defenseless
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/05/Screenshot_20200503-200643_Instagram-900x893.jpg

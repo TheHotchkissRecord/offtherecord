@@ -1,0 +1,2 @@
+Give a description of the newsletter, this will be used as the email preview. Begin on the next line: 
+In this issue, read more about ways the community is dealing with the effects of the COVID-19 pandemic, or check out some of the community submissions in the Community Voices section.

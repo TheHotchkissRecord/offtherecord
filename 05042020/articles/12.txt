@@ -1,0 +1,20 @@
+Article title (on next line): 
+Top Five Easy Recipes to Try During Quarantine
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/05/5092/
+
+Byline (FirstName LastName '19): 
+Sydney Jean ’23, Contributing Writer
+
+Content preview: 
+In quarantine, we spend most of our time working, exercising, catching up on our favorite Netflix series, and, of course, EATING. Are you experiencing monotony in the kitchen? These five simple recipes are the best way to change what you snack on. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+This easy recipe takes the cookie sandwich you know and love, the Oreo, and transforms it into a delicious treat.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Jill
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/05/Jill.jpg

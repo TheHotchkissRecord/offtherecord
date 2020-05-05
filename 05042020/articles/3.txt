@@ -1,0 +1,19 @@
+Article title (on next line): 
+Oil Industry Crashes
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/05/oil-industry-crashes/
+
+Byline (FirstName LastName '19): 
+Vivian Shi ’23, Contributing Writer
+
+Content preview: 
+Though the COVID-19 pandemic has affected all economic industries, few have been hit as hard as the oil industry. A steep decline in demand due to reduced travel has forced oil-drilling to stop, and the stock prices of oil companies have dropped drastically.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 

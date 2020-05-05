@@ -1,0 +1,643 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - May 4, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>In this issue, read more about ways the community is dealing with the effects of the COVID-19 pandemic, or check out some of the community submissions in the Community Voices section.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Monday, May 4, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            In this issue, read more about ways the community is dealing with the effects of the COVID-19 pandemic, or check out some of the community submissions in the Community Voices section. You can also try out a new recipe or read some analysis on the recent NFL draft. We hope you enjoy this newsletter, and as always, look out for an email on how you can contribute. Have a great week.
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/image-1-600x900.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/pandemic-causes-spike-in-domestic-violence/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Lance Cpl. Michelle S. Mattei
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Isolation regulations have caused domestic violence cases to spike.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Pandemic Causes Spike in Domestic Violence
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Maisy Seckler ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      “We’re all in the same boat,” many people have said since the start of the COVID-19 pandemic. However, while some people are practicing social distancing with supportive family members, others are in danger because quarantine rules have trapped them in unsafe environments with harmful partners or family members.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/pandemic-causes-spike-in-domestic-violence/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Students Discuss Socioeconomic Class
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22, News Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Questions during last Wednesday’s Community Conversation addressed whether COVID-19 might impact students’ ability to afford tuition next year and why teachers might assume that wealthy students are more likely to cheat. The focus of this discussion was “Everything You Wanted to Know, But Were Afraid to Ask About Socioeconomic Class.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/students-address-socioeconomic-class/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/oil-pump-jack-sunset-clouds-silhouette-energy-industry-rig-sky-fuel.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/oil-industry-crashes/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      pikist.com
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>A steep decline in demand for oil due to reduced travel has forced drilling to stop.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Oil Industry Crashes
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Vivian Shi ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Though the COVID-19 pandemic has affected all economic industries, few have been hit as hard as the oil industry. A steep decline in demand due to reduced travel has forced oil-drilling to stop, and the stock prices of oil companies have dropped drastically.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/oil-industry-crashes/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/Screenshot-2020-05-04-at-5.12.32-AM-900x585.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/tlc-and-library-develop-online-services/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Arhan Chhabra ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The TLC is working on ways to help students manage online learning more effectively.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      TLC and Library Develop Online Services
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Amelie Zhang ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      For many students, structured study hall from 8 to 10 p.m. on weeknights in the Class of 1964 Teaching and Learning Center (TLC) allows them to remain focused and efficient with their work; however, as a result of distance learning, the TLC and the Edsel Ford Memorial Library have transitioned to offering services online.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/tlc-and-library-develop-online-services/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/keithmoon-900x782.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/community-voices-moon-walk/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Keith Moon
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Mr. Moon has walked half a million steps since mid-March.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Voices: Moonwalk
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Keith Moon, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Community Voices is a section started and run by the Features section that gives community members the opportunity to submit personal vlogs, blogs, journal entries, poems, etc., relating to their lives off of the main campus. This week, Keith Moon, instructor in English, history, and Russian, shares his essay, “Moonwalk.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/community-voices-moon-walk/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/Screen-Shot-2020-05-04-at-6.50.50-PM-475x269.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/community-voices-a-day-in-the-life-of-charlotte-mooney-23-and-olivia-mooney-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Voices: A Day in the Life of Charlotte Mooney ’23 and Olivia Mooney ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Charlotte Mooney ’23 & Olivia Mooney ’21, Contributing Writers
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Charlotte Mooney ’23 and Olivia Mooney ’21 share a vlog this week about their daily lives while social-distancing.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/community-voices-a-day-in-the-life-of-charlotte-mooney-23-and-olivia-mooney-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Voices: Settings > Messages > Delete
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alex Cheng ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Alex Cheng ’23 continues his poetry series with this week’s entry: “Settings > Messages > Delete.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/community-voices-settings-messages-delete/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src=" https://hotchkissrecord.org/wp-content/uploads/2020/05/image-599x900.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/us-government-ending-lockdown-is-this-the-right-decision/#
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Wikipedia
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Recent protests have challenged state lockdowns.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      U.S. Government Ending Lockdown: Is This the Right Decision?
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Armaan Haji ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Some people believe that COVID-19 is coming to an end in the U.S. and that the economy should start to reopen. In fact, states such as Georgia, Florida, and Texas have already started by opening restaurants, parks, and other small businesses. This begs the question: Is ending lockdown the right choice to make at this time? COVID-19 lockdowns have been disrupting global supply chains, halting production of many products, and temporarily or permanently closing brick-and-mortar stores. Due to these factors, the stock market has seen a correction, and the economy has been significantly negatively impacted.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/us-government-ending-lockdown-is-this-the-right-decision/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/image-2-900x513.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/u-s-missed-opportunities-to-flatten-the-curve/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Wikipedia
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      U.S. Missed Opportunities to “Flatten the Curve”
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      James Yae ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      On February 15, there were 15 COVID-19 cases in the United States. On March 10, there were 994. On April 27, the number of confirmed cases exceeded one million. Without doubt, the U.S. has failed to “flatten the curve” of coronavirus cases and deaths because it neglected to implement aggressive testing and contact tracing.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/u-s-missed-opportunities-to-flatten-the-curve/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/04/Screenshot_20200425-232732_Instagram-900x690.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/artist-of-the-issue-kimanie-kiki-brown-20/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Kiki Brown ’20, via Instagram
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Participating in the Dance Company has been a goal of Brown's since his Upper Mid year.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Artist of the Issue: Kimanie (Kiki) Brown ’20
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Yuki Zhang ’22, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Kimanie (Kiki) Brown ’20 is a two-year Senior, Varsity football player, singer, actor, and dancer. This week, Arts & Leisure commemorates his performance in the annual Dance Company production last winter by interviewing him.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/artist-of-the-issue-kimanie-kiki-brown-20/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/Alexander_Roslin_-_Gustav_III-768x963.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/personal-history-column-satan-death-sentences-and-flamethrowers-some-stories-about-coffee/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Alexander Roslin
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>King Gustav III sentenced a criminal to a lifetime of drinking three pots of coffee a day.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Personal History Column: Satan, Death Sentences, and Flamethrowers - Some Stories About Coffee
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Cooper Roh ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Long before Tik did its Tokking, and even before the Star began its Bucking, people drank coffee. Though it may not be the world’s favorite caffeinated beverage (and that’s the tea), it is responsible for some absolutely insane history.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/personal-history-column-satan-death-sentences-and-flamethrowers-some-stories-about-coffee/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/Jill.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/5092/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Jill/Flickr
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>This easy recipe takes the cookie sandwich you know and love, the Oreo, and transforms it into a delicious treat.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Five Easy Recipes to Try During Quarantine
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Jean ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In quarantine, we spend most of our time working, exercising, catching up on our favorite Netflix series, and, of course, EATING. Are you experiencing monotony in the kitchen? These five simple recipes are the best way to change what you snack on.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/5092/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/1200px-2020_NFL_Draft_logo.svg-900x840.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/nfl-brings-hope-for-exciting-season/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      NFL
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The NFL draft arrived on April 23.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      NFL Brings Hope for Exciting Season
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alex Cheng ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      After three months of painstaking waiting, the National Football League (NFL) Draft finally arrived on April 23. Often the tipping point between contenders and pretenders, the 2020 draft came with its fair share of surprises and steals.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/nfl-brings-hope-for-exciting-season/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/Screenshot_20200504-170607_Instagram-900x698.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/athlete-of-the-issue-delaney-hayes-20/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Tom Honan
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Delaney Hayes ’20 is a three-year senior and co-captain for Girls Varsity Lacrosse and Girls Varsity Soccer.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Delaney Hayes ’20
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Delaney Hayes ’20 is a three-year senior and co-captain for Girls Varsity Lacrosse and Girls Varsity Soccer. Next season, Hayes will play on the Women’s Lacrosse team for Marist College. Teammate Julia Chai ’20 said, “Delaney is not only a great friend and teammate, but also a leader. She is really great at integrating new girls onto the team and helps create a fun but productive environment. Delaney truly cares about everyone around her and always puts others before herself.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/athlete-of-the-issue-delaney-hayes-20/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      A Commitment to Community
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      The CXXII Executive Board
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      If there is one core value that is more deeply ingrained within our school than the rest, it is community. For many, it is an integral part of our school, and one of the reasons we chose it.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/a-commitment-to-community/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20200504/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
