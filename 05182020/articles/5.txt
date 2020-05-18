@@ -1,0 +1,20 @@
+Article title (on next line): 
+Why the U.S. Will Fail to Open Up
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/05/why-the-u-s-will-fail-to-open-up/
+
+Byline (FirstName LastName '19): 
+Michael Zhang '21, Opinions Editor
+
+Content preview: 
+With a staggering 36 million unemployment claims since the COVID-19 pandemic began, Americans are desperate for society to reopen and for money to flow again. Take, for instance, the protests against lockdown rules. Moreover, the famed trillion-dollar relief package passed by the federal government, the Coronavirus, Aid, Relief, and Economic Security (CARES) Act, is rife with logistical issues: the system could not cope with the inundation of relief applications. Consequently, the majority of small business owners are yet to receive their funds, compounding their financial woes. Our economy cannot bear to remain stopped any longer, or we risk irreparable consequences. However, President Trump and the broader federal government have failed to adequately address the issue of re-opening; namely, by pushing all the onus of governing onto state municipalities, the federal government has created a disjointed COVID-19 response and, therefore, a recipe for disaster.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Protests against lockdowns have spread across the nation.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Paul Becker
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/05/image-3-900x621.png
