@@ -1,0 +1,733 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - May 28, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>Our final issue of the 2020-2021 school year is dedicated to the Senior class and their achievements this year.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, May 28, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            Our final issue of the 2020-2021 school year is dedicated to the Senior class and their achievements this year. While we are separated as classes end, we can still join together and celebrate the Class of 2020 as they graduate.
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Class of 2020 College Matriculation
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22, Sander Kuijs ’21, and Isabel Su ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Class of 2020 By the Numbers – Congratulations, Bearcats!
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/class-of-2020-college-matriculation/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Departing Faculty and Staff
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22, Sander Kuijs ’21, and Isabel Su ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The Record would like to recognize and thank the following faculty and staff, who are departing or have departed this year, for their work and contributions to the school. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/5322/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      List of 2020-2021 Proctors
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22 & Sander Kuijs '21 & Isabel Su '22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Each year, the Dorm Heads Committee selects proctors with input from academic advisors, dorm faculty, and current proctors. Before applicants are offered proctorship, their candidacy is reviewed by the dean of students, the dean of community life, the head of school, and class deans. Proctors are chosen based on six main criteria: being role models, demonstrating initiative, being trusted by and communicating well with peers and adults, being good listeners, and being inclusive. Due to the uncertain nature of housing plans as a result of the COVID-19 pandemic, the proctor selection committee, made up of the dorm heads and various deans, will wait until the details of returning to campus are more clear before assigning proctors to specific dorms. If the community is unable to reconvene on campus in the fall, proctors for the 2020-2021 school year will still have a role in creating a sense of community for students virtually. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/list-of-2020-2021-proctors/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Advice From Seniors
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Goldstein ’22 and Eric Jin ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/advice-from-seniors/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Q&A with New Class Presidents
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Goldstein ’22 and Eric Jin '22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      This spring’s class elections took place over the past few weeks as candidates gave their speeches via Zoom during Class Meetings and students voted through Google Forms. The interviews have been lightly edited for clarity.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/qa-with-new-class-presidents/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/scroll-clipart-plain-16.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/class-of-2020-cum-laude-inductees/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Arhan Chhabra
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Class of 2020 Cum Laude Inductees
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Goldstein ’22 and Eric Jin ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      According to the Cum Laude Society Handbook, “The major purpose of the Cum Laude Society is to recognize scholastic achievement in our schools while simultaneously striving to encourage qualities of excellence, justice, and honor.” Hotchkiss elects up to 5% of a class at the end of the Upper Mid year and the remainder at the end of the third marking period of the Senior year, including no more than 20% of the class. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/class-of-2020-cum-laude-inductees/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Luke and Maggie Reflect
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      James Yae '23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Maggie Ottenbreit ’20, a four-year Senior from New York City and Luke Kalaydjian ’20, a two-year Senior from Montreal, has been leading our Hotchkiss student body as All-School Presidents for the year 2019-20. Maggie and Luke have put in their strongest efforts to help and sustain the community over the course of the school year. Below is their parting advice as they pass on the torch to our new All-School Presidents, Keren Mikanda ’21 and Cyrus Farman-Farmaian ’21. This interview has been lightly edited for clarity.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/luke-and-maggie-reflect/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Four the Seniors
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alex Cheng ’2
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Community Voices: A poem by Alex Cheng '23
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/four-the-seniors/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Don’t Wait Until Your Senior Spring
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carter Moyer '20
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Since I was a Prep, I have heard of the fabled “Senior Spring,” a time when grades and test scores and eye-catching extracurriculars would no longer have to be chosen with college applications in mind. I soon developed my own “Senior bucket list:” swim across the lake, act in a black box, give blood and not faint, have a picnic on Senior Grass or Bissell Quad. Those never happened.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/dont-wait-until-your-senior-spring/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      We Are One Community
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Ryan Perrenoud
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Upon my arrival at Hotchkiss in the summer of 2011, as the spouse of an incoming math teacher with three small children, I realized this was to be an eye-opening experience. I grew up in a smaller conservative town on the West coast and had voted Republican my entire life. I have been politically active as long as I can remember, with one of my first politically meaningful experiences working on the Bob Dole presidential campaign during college. I had passed on an opportunity to work on another presidential campaign right before I arrived at Hotchkiss.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/we-are-one-community/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Senior Favorites
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Yihan Ding ’22 and Stephanie Ge ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      This week, Seniors shared a few of their favorite things with the Arts & Leisure section.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/senior-favorites/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/ceramicsCCicecreamBowlparty1-900x675.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/seniors-in-ceramics-say-farewell/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Christine Owen
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Students enrolled in the winter ceramics co-curricular held a Senior farewell party to celebrate the end of the season.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Seniors in Ceramics Say Farewell
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Isabella Wei ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      What is better than an ice cream part for an emotional farewell? Before departing for Spring Break, students enrolled in the winter Ceramics co-curricular held a Senior farewell party, celebrating the end of the  season. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/seniors-in-ceramics-say-farewell/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/8662-900x603.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/athlete-of-the-issue-jen-li-20/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Jen Li ’20
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Li was positioned to be the number one seed on Girls Varsity Tennis for this season.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Jen Li ’20
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Hannah Goldberg ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Jen Li ’20 is a four-year Senior and captain of both Girls Varsity Tennis and Girls Varsity Cross Country. Last spring, the Girls Varsity Tennis team earned the 2019 Founders League title. Li was positioned to be the number one seed for this season. Teammate Tara Bhandari ’21 said, “Jen is probably one of the most determined tennis players I have ever known. Her commitment to tennis is outstanding, and her positive attitude always drove the team to success.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/athlete-of-the-issue-jen-li-20/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/05/8688-900x603.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/05/athlete-of-the-issue-obi-okoli-20/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Obi Okoli ’20
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Obi Okoli ’20
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Obinna Okoli ’20 is a Senior and a four-year member of Boys Varsity Squash and Boys Varsity Track and Field. On the squash team, he played as the #3 seed this year; on the track team, he runs the 110 m and 300 m hurdles. His squash teammate John Nicholson ’22 said, “Obi is extremely reliable, on and off the court. In terms of his athletic ability, he had the best record on the team. Whenever he stepped on court, we could count on him to win, which is invaluable in the world of squash. Off the court, Obi was a great friend – easy to talk to, and a great listener.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/athlete-of-the-issue-obi-okoli-20/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Jacqui Rice ’20
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Margo Donohue ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Jacqui Rice ’20 is a four-year senior and co-captain of Varsity Sailing. She has been sailing on Lake Wononscopomuc since her Prep year at Hotchkiss and also served as a Fairfield Farm Ecosystems and Adventure Team (FFEAT) leader for the fall season. Teammate Nicole Morikawa ’21 said, “She is the most thoughtful, considerate, and hard-working person I know. Even though our season [this year] was nonexistent, she would have made a great captain because of her innate kindness. I remember when I first joined the team, I was so nervous. Jacqui was one of my first and best friends on the team, and she was always there to offer support and advice.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/athlete-of-the-issue-jacqui-rice-20/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Senior Athletes Reflect
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Margo Donohue ’22, Hannah Goldberg ’22, and Rachel Mokriski ’21
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The Sports Editors asked athletes to look back on memories of their time at the school. Reflections were lightly edited for grammatical accuracy and clarity.  
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/senior-athletes-reflect/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Bearcats to Play in College
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Rachel Mokriski ’21
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      After leading Hotchkiss teams to many successes, these 39 Seniors plan to continue their athletic careers in college. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/bearcats-to-play-in-college/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Classes May End, But Community Continues
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      The CXXII Executive Board
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      On behalf of The Hotchkiss Record, we would first like to thank the Seniors for all of their dedication and leadership during their time at the school. While this year has ended in a way we would never have expected, community members have worked hard to end the year on a strong note. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/05/classes-may-end-but-community-continues/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+            
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20200528/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

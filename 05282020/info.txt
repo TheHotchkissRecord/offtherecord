@@ -1,0 +1,2 @@
+Give a description of the newsletter, this will be used as the email preview. Begin on the next line: 
+Our final issue of the 2020-2021 school year is dedicated to the Senior class and their achievements this year.

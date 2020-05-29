@@ -1,0 +1,2 @@
+Input the editorial message on the next line: 
+Our final issue of the 2020-2021 school year is dedicated to the Senior class and their achievements this year. While we are separated as classes end, we can still join together and celebrate the Class of 2020 as they graduate.

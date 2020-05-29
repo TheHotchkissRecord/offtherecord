@@ -1,0 +1,20 @@
+Article title (on next line): 
+Athlete of the Issue: Jen Li ’20
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/05/athlete-of-the-issue-jen-li-20/
+
+Byline (FirstName LastName '19): 
+Hannah Goldberg ’22
+
+Content preview: 
+Jen Li ’20 is a four-year Senior and captain of both Girls Varsity Tennis and Girls Varsity Cross Country. Last spring, the Girls Varsity Tennis team earned the 2019 Founders League title. Li was positioned to be the number one seed for this season. Teammate Tara Bhandari ’21 said, “Jen is probably one of the most determined tennis players I have ever known. Her commitment to tennis is outstanding, and her positive attitude always drove the team to success.”
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Li was positioned to be the number one seed on Girls Varsity Tennis for this season.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Jen Li ’20
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/05/8662-900x603.jpg
