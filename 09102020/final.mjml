@@ -1,0 +1,365 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - September 10, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>Welcome to the first issue of <i>The Record</i> for this school year!</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, September 10, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            Welcome to the first issue of <i>The Record</i> for this school year! COVID-19 has brought significant change to our everyday lives at school, and <i>The Record</i> is no exception. But just like how students, faculty, and other members of the community have adapted, <i>The Record</i> is committed to continuing our mission of elevating the voices of everyone through sharing stories with the community. We invite you to join our meeting at 7:30 p.m. EDT tonight to learn more about our plans for this year and how you can contribute.
+            <br/><br/> - <i>The CXXII Executive Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/combined.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/school-welcomes-new-faculty/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>14 new faculty members are joining the community this year.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      School Welcomes New Faculty
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22, News Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The Record would like to recognize and welcome 14 new faculty to campus.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/school-welcomes-new-faculty/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/50295496563_3f8c103afd_o.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/orientation-connects-new-students-virtually/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Proctors and orientation leaders welcomed students back to campus last week.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Orientation Connects New Students Virtually
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Isabel Su ’22, News Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      “I have three brothers, I can ride a unicycle, and I’ve been to 49 out of the 50 states.”<br><br>
+This is just one of the many creative submissions new students posted while played “Two Truths and a Lie” on Zoom during orientation last week. With ten percent of the student body studying remotely, the school held separate orientation sessions for new remote, boarding, and day students.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/orientation-connects-new-students-virtually/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/2020-21-Almanac-The-Hotchkiss-School_Page_1.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/2020-21-year-brings-changes-to-the-almanac/#
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+     Arhan Chhabra ’22
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Several changes were made to the 2020-21</i> Almanac.
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      2020-21 Year Brings Changes to the <i>Almanac</i>
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Goldstein ’22, Features Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Administrators worked together throughout the summer reviewing, amending, and editing the <i>Almanac</i> for the most up-to-date 2020-2021 version. A list of all changes made is included at the end of this article.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/2020-21-year-brings-changes-to-the-almanac/#
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/tough_on_china.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/tough-on-china-clash-of-civilizations-or-political-tool/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Aquir - Adobe Stock
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>March’s stock market fall was a glimpse of what might happen if China’s trade relations with the rest of the world collapsed.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      “Tough on China”: Clash of Civilizations or Political Tool?
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Michael Zhang ’21, Opinions Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      As November approaches, all eyes are on the United States presidential election - more specifically, how Democratic nominee Joe Biden and President Trump will address the novel Coronavirus. COVID-19 has both broken and widened existing fissures within American society. While most of our economy lies in shambles, the nation’s wealthiest corporations - Amazon, Google, and Apple - enjoy growth. Mental illness and suicide rates have skyrocketed. The disproportionate suffering of Blacks and Hispanics as well as widespread acts of police brutality underscore entrenched racial discrimination. America is hurting.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/tough-on-china-clash-of-civilizations-or-political-tool/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/Screenshot-2020-09-09-125023.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/student-performers-unlock-the-key-to-change-concert/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Julie Chung (Loomis ’21)
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The Key to Change concert has garnered over a thousand views on Youtube.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Student Performers Unlock <i>The Key to Change</i> Concert
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Stephanie Ge ’22, Arts & Leisure Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Even during quarantine, students are finding ways to connect and create. The Renaissance Ensemble, an interscholastic organization dedicated to the performing arts, premiered its first concert, <i>The Key to Change</i>, live on Youtube on Sunday, August 30.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/student-performers-unlock-the-key-to-change-concert/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      NBA Playoffs Postponed Following Bucks Strike
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Hannah Goldberg ’22, Sports Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+     George Floyd. Elijah McClain. Breonna Taylor. Tennis player Naomi Osaka has shown solidarity to the Black Lives Matter movement by wearing facemasks with the names of victims of police brutality to her matches. After withdrawing from her semi-final match in the Western and Southern Open, she wrote on her Instagram, “As a black woman, I feel as though there are much more important matters at hand that need immediate attention, rather than watching me play tennis.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/nba-playoffs-postponed-following-bucks-strike/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/9054.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/school-updates-co-curricular-program/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Tom Honan
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Off-season sports such as ultimate frisbee are now available as club co-curriculars in the fall.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      School Updates Co-Curricular Program
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Margo Donohue ’22, Sports Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      After the Garland residents finish spending the two-week quarantine playing golf on the seventh fairway, they could find themselves on the athletic field, exploring the school’s trails, or participating in the Math Team as their fall season co-curricular. <br><br>The 2020-2021 school year has arrived with many changes, and the fall co-curricular program is also affected by COVID-19 restrictions. Students can choose from 36 interscholastic teams, intramural activities, outdoor programs, and alternative team options this fall, more than ever before.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/school-updates-co-curricular-program/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Stay Safe, Stay Connected
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      The CXXII Executive Board
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Hearing campus filled with the laughter and chatter of students has been a welcoming sound after spending the spring apart. We hope that everyone has enjoyed the excitement of the new school year, despite the changes caused by the COVID-19 pandemic.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/stay-apart-to-stay-together/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20200910/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

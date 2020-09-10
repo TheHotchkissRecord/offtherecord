@@ -1,0 +1,20 @@
+Article title (on next line): 
+Student Performers Unlock <i>The Key to Change</i> Concert
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/09/student-performers-unlock-the-key-to-change-concert/
+
+Byline (FirstName LastName '19): 
+Stephanie Ge ’22, Arts & Leisure Editor
+
+Content preview: 
+Even during quarantine, students are finding ways to connect and create. The Renaissance Ensemble, an interscholastic organization dedicated to the performing arts, premiered its first concert, The Key to Change, live on Youtube on Sunday, August 30.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+The Key to Change concert has garnered over a thousand views on Youtube.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Julie Chung (Loomis ’21)
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/09/Screenshot-2020-09-09-125023.png
