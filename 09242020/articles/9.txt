@@ -1,0 +1,20 @@
+Article title (on next line): 
+Kamala Harris Is No Mistake
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/09/kamala-harris-is-no-mistake/
+
+Byline (FirstName LastName '19): 
+Benjamin Who ’24, Contributing Writer
+
+Content preview: 
+Democratic nominee Joe Biden made headlines mid-August when he announced Senator Kamala Harris would serve as his running mate. His monumental, albeit expected, decision to choose Harris – the first Black woman and the first person of Indian descent to be nominated by a major political party – is an attempt to create excitement among both Democrats and middle-ground voters.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Democratic nominee Joe Biden announced Senator Kamala Harris would serve as his running mate in mid-August.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Gage Skidmore
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/09/Kamala_Harris_40773627633.jpg

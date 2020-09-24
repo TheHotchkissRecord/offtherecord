@@ -1,0 +1,20 @@
+Article title (on next line): 
+Campus Services Adapt to COVID-19
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/09/features/
+
+Byline (FirstName LastName '19): 
+Libby Cobera ’24, Contributing Writer
+
+Content preview: 
+How are campus services overcoming COVID-related obstacles? To investigate, contributing writer Libby Cobera ’24 conducted various interviews with essential contributors to COVID-19 related needs. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Campus services have adapted to COVID-19 in a variety of ways.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Communications
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/09/combined_covid_faculty.png

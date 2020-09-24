@@ -1,0 +1,2 @@
+Input the editorial message on the next line: 
+As the school emerges from quarantine into in-person learning, explore how community members are adapting to COVID-19 restrictions in this issue. If you are interested in contributing to <i>The Record</i>, keep an eye out for our email later tonight with information about how to sign up.

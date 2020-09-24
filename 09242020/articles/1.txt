@@ -1,0 +1,20 @@
+Article title (on next line): 
+Hurricanes and COVID: New Faculty Journey to Lakeville
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/09/hurricanes-and-covid-new-faculty-journey-to-lakeville/
+
+Byline (FirstName LastName '19): 
+Kiki Henry ’22, News Editor
+
+Content preview: 
+Fourteen new faculty join the community this year from places all around the world, including the Dominican Republic, Spain, France, and Massachusetts. Although many faculty members accepted their jobs in February, before the global spread of COVID-19, others faced the difficult decision of moving to a new community during a pandemic. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Ms. Sidran taught middle schoolers at the Carol Morgan school, an international American school in Santo Domingo before coming to Hotchkiss.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Marcelle Soto
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/09/image.png

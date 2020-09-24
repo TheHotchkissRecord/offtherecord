@@ -1,0 +1,20 @@
+Article title (on next line): 
+Declutter Your Inbox
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/09/declutter-your-inbox/
+
+Byline (FirstName LastName '19): 
+Reece Yang ’21, Editor-in-Chief
+
+Content preview: 
+Sometimes the amount of emails streaming into your inbox every hour can feel overwhelming. Editor-in-chief Reece Yang ’21 offers some tips on how to manage your inbox efficiently.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+If possible, set aside a chunk of time to go through your inbox. 
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Stock Catalog/Flickr
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/09/declutter_inboc.jpg

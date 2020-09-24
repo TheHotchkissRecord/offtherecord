@@ -1,0 +1,593 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - September 24, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>As the school emerges from quarantine into in-person learning, explore how community members are adapting to COVID-19 restrictions in this issue.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, September 24, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            As the school emerges from quarantine into in-person learning, explore how community members are adapting to COVID-19 restrictions in this issue. If you are interested in contributing to <i>The Record</i>, keep an eye out for our email later tonight with information about how to sign up.
+            <br/><br/> - <i>The CXXII Executive Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/image.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/hurricanes-and-covid-new-faculty-journey-to-lakeville/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Marcelle Soto
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Ms. Sidran taught middle schoolers at the Carol Morgan school, an international American school in Santo Domingo before coming to Hotchkiss.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Hurricanes and COVID: New Faculty Journey to Lakeville
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22, News Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Fourteen new faculty join the community this year from places all around the world, including the Dominican Republic, Spain, France, and Massachusetts. Although many faculty members accepted their jobs in February, before the global spread of COVID-19, others faced the difficult decision of moving to a new community during a pandemic.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/hurricanes-and-covid-new-faculty-journey-to-lakeville/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Sixty-four Students Embrace Remote Learning
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sander Kuijs ’21, News Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      When walking through the Humanities wing, don’t be alarmed to see an owl-like robot sitting in the middle of the classrooms. With the school year well underway, most students are attending in-person classes and resuming co-curriculars on the fields and in the MAC. However, a different reality confronts the 64 students who make up the Remote Learning Cohort (RLC).
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/sixty-four-students-embrace-remote-learning/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/Screen-Shot-2020-09-23-at-11.26.36-AM-e1600878455338.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/club-committee-goes-virtual/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Hotchkiss Hub
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The Clubs Program website groups student organizations into different categories for easy access.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Club Committee Goes Virtual
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Amelie Zhang ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      “Want to sign up for our mailing list? You can take some candy if you do!” Students did not experience the chaos of having club members bribing students with food to lure them to their clubs at the Club Fair due to COVID-19 restrictions on large gatherings. Instead, under the planning of the Clubs Committee, composed of Lower Mids, Upper Mids, and Seniors, clubs recreated this experience with virtual introductory meetings. Since last spring, the Clubs Committee, led by Ms. Nora Yasumura, director of student clubs and affinity groups, has worked to ensure a smooth transition to a virtual club experience.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/club-committee-goes-virtual/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/combined_covid_faculty.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/features/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Campus services have adapted to COVID-19 in a variety of ways.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Campus Services Adapt to COVID-19
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Libby Cobera ’24, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      How are campus services overcoming COVID-related obstacles? To investigate, contributing writer Libby Cobera ’24 conducted various interviews with essential contributors to COVID-19 related needs.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/features/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/comm_life_all.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/community-life-adapts-to-covid-19/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Adapting to Community Life During the Pandemic
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Goldstein ’22 and Darina Huang ’23, Features Editor and Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Contributing writer Darina Huang ’23 interviewed Amber Bretz ’23, Mr. Michael Boone, instructor in physics and engineering and director of the EFX lab, Emilie Clitus ’24, Ms. Kristin Glasheen, instructor in Spanish, Amelia Kain ’23, and Nadia Puente ’21, about their transition to campus and in-person classes.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/community-life-adapts-to-covid-19/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/acc_life_all.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/students-and-faculty-adjust-to-academic-life-during-covid-19/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>In-person classes began this Monday.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Students and Faculty Adjust to Academic Life During COVID-19
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sahil Annamaneni ’24 and Sydney Goldstein ’22, Contributing Writer and Features Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Contributing writer Sahil Annamaneni ’24 interviewed Ms. Sarah Forbes, instructor in Spanish, Oliver Hurwitz ’21, Mr. Adam Lang, instructor in economics, Isamar Martinez ’24, and Phil Warren ’24 about adjusting to academic life this year.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/students-and-faculty-adjust-to-academic-life-during-covid-19/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Trump’s vs. Biden’s Economic Plan for the Presidency
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Armaan Haji ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Given the current COVID-19 crisis in the United States, a lot is riding on who gets elected in November. The major candidates (Joe Biden and Donald Trump) have very differing economic views on healthcare, infrastructure and jobs, climate change, and taxation. I’m going to give my input on which economic plan I think would be the most beneficial, breaking down each candidate’s economic plans (in simple terms) and what each could mean for America. Although Mr. Biden’s plans are expensive, in the long run, they are worth it. They will benefit the economy, environment, and healthcare systems of the United States. Even though it will end up costing those in the top one percent an estimated additional 100,000 dollars in taxes per year, I believe that for the greater good of the average person in America, and for future generations, Mr. Biden’s economic plan is better than President Trump’s.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/trumps-vs-bidens-economic-plan-for-the-presidency/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/Kamala_Harris_40773627633.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/kamala-harris-is-no-mistake/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Gage Skidmore
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Democratic nominee Joe Biden announced Senator Kamala Harris would serve as his running mate in mid-August.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Kamala Harris Is No Mistake
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Benjamin Who ’24, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Democratic nominee Joe Biden made headlines mid-August when he announced Senator Kamala Harris would serve as his running mate. His monumental, albeit expected, decision to choose Harris – the first Black woman and the first person of Indian descent to be nominated by a major political party – is an attempt to create excitement among both Democrats and middle-ground voters.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/kamala-harris-is-no-mistake/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/Screenshot-2020-09-23-000952.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/a-new-hub-for-community/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Hotchkiss Hub
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The Hotchkiss Hub serves as a virtual space where students can find answers to their most common questions.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      A New Hub for the Community
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Cecily Smith ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      When students self-quarantined in their dorm rooms, they may have asked: Which clubs should I join? What’s for dinner? How can I get help on my math homework?
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/a-new-hub-for-community/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/NasunoYoichi.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/personal-history-column-instances-of-amazing-historical-marksmanship/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Public Domain
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Nasu no Yoichi, a Minamoto Warrior, managed to shoot a fan that was placed on top of an enemy ship’s mast during the Genpei War.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Personal History Column: Instances of Amazing Historical Marksmanship
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Jack McGlinn ’22, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Since the dawn of time, many things have remained true.<br><br>The sun, for example, will always rise in the East and always set in the West. Coleslaw will always be disgusting. And history has been – and always will be – humanity’s most source of some of the most unbelievable stories. The truth, after all, is stranger than fiction.<br><br>Without further ado, here are two of my favorite historical tales regarding those men who – if nothing else – are more accurate than the Clippers’ offense. And though today we won’t be talking about the Denver Nuggets, we will be talking about marksmen.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/personal-history-column-instances-of-amazing-historical-marksmanship/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/MCampbell.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/athlete-of-the-issue-meagan-campbell-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Tom Honan
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Meagan Campbell ’21 has played field hockey for seven years.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Meagan Campbell ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Nithya Chundi ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Meagan Campbell ’21 is a four-year Senior and a captain of Girls Varsity Field Hockey. She has played field hockey for seven years and is a part of the Field Hockey Captains Council, a new initiative designed to promote inclusivity on the team. Meagan also plays on the Girls Varsity Hockey team in the winter. Teammate Sarah Holmes ’23 said, “Meagan’s presence emphasizes that we are not just a team, but a family. Meagan is one of my biggest role models. I cannot imagine Hotchkiss Field Hockey without her, and I’m so proud to call Meagan my teammate and friend.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/athlete-of-the-issue-meagan-campbell-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/VarFootball.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/athletes-learning-remotely/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Tom Honan
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Some athletes had to make the tough decision to sacrifice their on-campus experience to continue their commitment to sports this fall.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athletes Learning Remotely
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      After spending months away from school, many students were excited at the prospect of journeying back to campus. However, with COVID-19 protocols requiring all students to remain on campus upon their return to Lakeville, some athletes had to make the tough decision to sacrifice their on-campus experience to continue their commitment to sports.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/athletes-learning-remotely/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/unnamed-e1599670920358.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/fall-and-spring-athletes-get-a-head-start/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Victoria McGee
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Winter and spring teams can now practice at scheduled times with coaches this fall.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Fall and Spring Athletes Get a Head Start
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Rachel Mokriski ’21, Sports Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Although the New England Prep School Athletic Conference (NEPSAC)’s cancellation of the fall season devastated many fall athletes, it does come with certain benefits for winter and spring athletes. In July, the athletic conference lifted its ban on out-of-season coaching, announcing that winter and spring teams could now practice at scheduled times with coaches this fall.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/fall-and-spring-athletes-get-a-head-start/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/declutter_inboc.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/09/declutter-your-inbox/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Stock Catalog/Flickr
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>If possible, set aside a chunk of time to go through your inbox.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Declutter Your Inbox
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Reece Yang ’21, Editor-in-Chief
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Sometimes the amount of emails streaming into your inbox every hour can feel overwhelming. Editor-in-chief Reece Yang ’21 offers some tips on how to manage your inbox efficiently.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/09/declutter-your-inbox/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20200924/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

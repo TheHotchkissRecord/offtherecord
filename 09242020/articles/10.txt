@@ -1,0 +1,20 @@
+Article title (on next line): 
+A New Hub for the Community
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/09/a-new-hub-for-community/
+
+Byline (FirstName LastName '19): 
+Cecily Smith ’23, Contributing Writer
+
+Content preview: 
+When students self-quarantined in their dorm rooms, they may have asked: Which clubs should I join? What’s for dinner? How can I get help on my math homework?  
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+The Hotchkiss Hub serves as a virtual space where students can find answers to their most common questions.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Hotchkiss Hub
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/09/Screenshot-2020-09-23-000952.png
