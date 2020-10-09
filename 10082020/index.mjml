@@ -1,0 +1,505 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - October 8, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview></mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, October 8, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            Happy holiday!
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/BTD-nmontoya2.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/students-protest-breonna-taylor-court-ruling/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Nicole Ocampo Montoya ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Students gathered in Main Circle to march down to Sprole Field during the demonstration.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Students Protest Breonna Taylor Court Ruling
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Naima Johnson ’24, Contributing Writer, & Amelie Zhang ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The morning of September 25, almost 400 students congregated on Sprole Field in a demonstration responding to the grand jury’s decision to not charge the police officers involved in Breonna Taylor’s death.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/students-protest-breonna-taylor-court-ruling/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      School Reimagines Upper-Level Curriculum
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Lauren McLane ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      As the school phases out Advanced Placement (AP) courses, teachers of upper-level classes have gained the freedom to redesign curriculums to delve more deeply into their subjects.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/school-reimagines-upper-level-curriculum/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/09/Cobera_Hope_Headshot_website-1.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/new-communications-director-hope-cobera-joins-the-school/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Ms. Cobera joined the school community in March.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      New Communications Director Hope Cobera Joins the School
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alex Cheng ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Do you want a #HeyBearcat feature on Instagram? The new communications director, Ms. Hope Cobera ’88 P’24, might be able to help.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/new-communications-director-hope-cobera-joins-the-school/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Dining Services Tackle Pandemic Production
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Shannon Meng ’22, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      How have the dining services made adjustments to COVID-19? Lettuce see!
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/dining-services-tackle-pandemic-production/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Why Wearing Masks Isn’t Political
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Charlotte Urquhart ’21, Opinions Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Recently, Trump hosted the Republican National Convention at the White House, and the only thing more astonishing than the fact that his speech was incredibly mundane and boring, was the fact that he openly opposed his own administration’s CDC guidelines. The CDC guidelines, as stated on their website, are “Cover your mouth and nose with a mask when around others,” while also reminding people, “The mask is not a substitute for social distancing.” Unfortunately, when Trump accepted the Republican nomination for the second term, out of 1,000 people who attended the convention, only a few wore masks or socially distanced. Trump didn’t mask or socially distance, setting the example for his supporters to do the same, but unfortunately he now has coronavirus, confirmed on October 3rd, 2020.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/why-wearing-masks-isnt-political/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      The Social Dilemma: Social Media’s Impact on Society
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Lauren McLane ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      2020 has been a year of exacerbating political polarization and widespread misinformation, including inaccurate reports regarding the coronavirus. Social media’s unregulated platforms and unfettered activities lie at the heart of these issues, posing a threat to American society and democracy as we know it. Ultimately, social media and the internet has evolved from a useful tool to an inescapable aspect of our lives that manipulates and exploits users by insidiously influencing users’ behavior, creating consequences that threaten society. Social media’s prevalence and use in modern society is undeniable, but we must take care to recognize and manage the potential dangers associated with it.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/the-social-dilemma-social-medias-impact-on-society/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Legacy and Impact of Ruth Bader Ginsburg on the American Justice System
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Siri Nellutla ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The “Notorious RBG” was a force to be reckoned with. On September 18, 2020, former Justice Ruth Bader Ginsburg passed away after shaping a new life for American women. She fought for not only women’s rights, but the rights of every individual, regardless of race, gender, sexuality, socio-economic status or background. In the CNN documentary RBG about her life and work, Ginsburg quoted Sarah Grimké, an American abolitionist and mother of the women’s suffrage movement, and said, “I ask no favors of our sex. All I ask of our brethren is that they take their feet off our necks.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/legacy-and-impact-of-ruth-bader-ginsburg-on-the-american-justice-system/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/Jonathan-Andrew-Perez-00.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/community-celebrates-latinx-heritage-month/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>During an event on September 16, Jonathan Andrew Peréz ’00 discussed his own experiences as a Latino student at the school.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Celebrates Latinx Heritage Month
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Darina Huang ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      As part of its goal to promote diversity and inclusion in the community, the school has organized multiple events recognizing Latinx Heritage Month. The month, also known as Hispanic Heritage Month, celebrates the achievements, history, and culture of Hispanic and Latinx people from September 15 to October 15.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/community-celebrates-latinx-heritage-month/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/awang1.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/artist-of-the-issue-amelia-wang-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      David Li ’21
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Wang performs during an Instrumental Recital in Elfers Hall.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Artist of the Issue: Amelia Wang ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Cecily Smith ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Amelia Wang ’21 is a four-year Senior, co-head of Calliope, Triple A, and St. Luke’s Society, and board member of Bluestockings, proctor, and violinist in the orchestra.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/artist-of-the-issue-amelia-wang-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      NBA Finals Continue in the Bubble
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alex Cheng ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      To say this National Basketball Association (NBA) season has been unpredictable is an understatement. From the meteoric rise of new stars, such as Jamal Murray and Tyler Herro, to the utter collapse of pre-bubble championship favorites the Los Angeles Clippers, the season has been a bright spot amidst the COVID-19 pandemic.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/nba-finals-continue-in-the-bubble/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/cherring0.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/athlete-of-the-issue-campbell-herring-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Catherine Eristoff
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Herring has been running for seven years.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Campbell Herring ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Anika Balwada ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Campbell Herring ’21 is a four-year Senior and captain of Boys Varsity Cross Country. He has been running for seven years and is also a member of the Varsity Track and Field team. Teammate Phil Warren ’23 said, “He’s a terrific leader and does an incredible job encouraging the boys to do their best each and every day.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/athlete-of-the-issue-campbell-herring-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/vvball1.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/girls-volleyball-sets-up-the-season/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      David Li ’21
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The Girls Varsity Volleyball team, depicted above in a match last year, has adapted to pandemic restrictions this year by focusing on technical skills.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Girls Volleyball Sets Up the Season
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Due to new social distancing guidelines, the Girls Varsity Volleyball team started off this fall practicing outside on Taylor Field for the first two weeks of its season. However, on September 28, the team started to play in the Field House again.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/girls-volleyball-sets-up-the-season/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      COVID-19 Changes Sports Practices
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      James Yae ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      As the school has resumed during the coronavirus pandemic, face masks and social distancing protocols have become the new “normal,” and athletes returning to the fields, courts, and swimming pools are needing to adapt to the new circumstances. Many rules in place from previous years, as well as the overall setup of the Mars Athletic Center, have also changed, in order to increase the safety of athletes and help prevent the spread of COVID-19.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/covid-19-changes-sports-practices/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Contact Us
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            Do you have an idea you would like us to cover?
+            <a href="https://hotchkissrecord.org/contact/">Contact us or submit an anonymous tip.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20201008/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
