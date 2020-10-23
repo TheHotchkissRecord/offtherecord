@@ -1,0 +1,20 @@
+Article title (on next line): 
+A Conversation with Political Club Heads
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/10/a-conversation-with-political-club-heads/
+
+Byline (FirstName LastName '19): 
+Benjamin Who ’24, Contributing Writer
+
+Content preview: 
+Contributing Writer Benjamin Who ’24 interviewed heads of political clubs to learn more about their role in promoting civil discourse in the community and their views towards the upcoming presidential election.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Annie Xu ’22
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/10/Graphics-1.1-900x558.jpeg

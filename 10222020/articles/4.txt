@@ -1,0 +1,20 @@
+Article title (on next line): 
+Community Survey on Presidential Election
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/10/community-survey-on-presidential-election/
+
+Byline (FirstName LastName '19): 
+Sydney Goldstein ’22 and Eric Jin ’22, Features Editors
+
+Content preview: 
+In advance of the 2020 presidential election, Features Editors Eric Jin ’22 and Sydney Goldstein ’22 surveyed the student body, faculty, staff, and spouses anonymously to get a sense of the school’s political climate. The survey received 350 total responses, and the data collected is represented in the tables and charts below.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Mr. Joe Biden and President Donald Trump are the Democratic and Republican nominees for the 2020 presidential election, respectively.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Gage Skidmore & Michael Vandon
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/10/Candidates2020-900x506.jpg

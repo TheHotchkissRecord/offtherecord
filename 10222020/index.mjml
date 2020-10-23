@@ -1,0 +1,501 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - October 22, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>This issue, the Features section surveyed the school and interviewed political club heads about the upcoming election.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, October 22, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            This issue, the Features section surveyed the school and interviewed political club heads about the upcoming election. Mr. Keith Moon, instructor in English, history, and Russian language, presents an essay on the importance of voting. Arts covers how this week’s HDA production and the music program have both adapted to COVID-19. Sports analyzes the shortened MLB season, and this week brings new artists and athletes of the issue. News reflects back on the Head of School Holiday and looks forward to Family Weekend. As always, stay tuned for an email with further instructions on how to contribute to <I>The Record</I>. Have a great week.  
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Celebrates Holiday with Food Trucks, Hiking
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Amelie Zhang ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Whole floors and even entire dorms joined a Zoom call to celebrate following a surprise email from Mr. Craig Bradley, head of school, on Wednesday, October 7. During the call, Mr. Bradley announced a Head of School Holiday in honor of every member of the school for their diligence in following COVID-related restrictions. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/community-celebrates-holiday-with-food-trucks-hiking/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/Family-Weekend-2019_WEB.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/family-programming-goes-virtual/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Mr. Bradley greets parents during the 2019 Family Weekend.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Family Programming Goes Virtual
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Amber Bretz ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In a departure from previous years, students and guardians will not be putting on funny accessories and posing together at the photo booth during family weekend this year. Due to COVID-19, the school has renamed “Family Weekend” to the “Virtual Family Program,” and all events will be held virtually.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/family-programming-goes-virtual/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Quarantine Lifted After Negative Tests
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22, News Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      On Thursday, October 15, Mr. Richard Davis, COVID coordinator, notified the community via email that three students had tested positive for the coronavirus, and that the campus would be immediately entering into quarantine. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/quarantine-lifted-after-negative-tests/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/Candidates2020-900x506.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/community-survey-on-presidential-election/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Gage Skidmore & Michael Vandon
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Mr. Joe Biden and President Donald Trump are the Democratic and Republican nominees for the 2020 presidential election, respectively.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Survey on Presidential Election
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Goldstein ’22 and Eric Jin ’22, Features Editors
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In advance of the 2020 presidential election, Features Editors Eric Jin ’22 and Sydney Goldstein ’22 surveyed the student body, faculty, staff, and spouses anonymously to get a sense of the school’s political climate. The survey received 350 total responses, and the data collected is represented in the tables and charts below.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/community-survey-on-presidential-election/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/Graphics-1.1-900x558.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/a-conversation-with-political-club-heads/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Annie Xu ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      A Conversation with Political Club Heads
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Benjamin Who ’24, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Contributing Writer Benjamin Who ’24 interviewed heads of political clubs to learn more about their role in promoting civil discourse in the community and their views towards the upcoming presidential election.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/a-conversation-with-political-club-heads/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/IMG_4212-e1603369284769.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/why-i-vote/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Quisha Lee ’24
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Why I Vote
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Keith Moon, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      One of my earliest political memories, when I was only seven years old, was the ratification of the 26th Amendment to the U.S. Constitution, which allowed the voting age across the United States to be lowered to 18. My father worked at the U.S. Embassy in Costa Rica at the time, and I remember sitting down with him in our house in San José to figure out when that meant I could first vote for president. I was disappointed to learn that I’d have to wait an extra two years—until I was 20—because there would be no presidential election when I first turned 18. The first year I could vote for president, 1984, seemed preposterously far away to my second grade brain.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/why-i-vote/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      <i>Festival of Fables</i> Puts Social Justice Twist on Fairy Tales
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Nithya Chundi ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      As the saying goes, “the show must go on.” In spite of the COVID-19 pandemic, students passionate about the performing arts are finding ways to showcase their art and its message to the community.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/festival-of-fables-puts-social-justice-twist-on-fairy-tales/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/IMG_3882-675x900.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/artists-of-the-issue-raven-hong-22-and-kyral-ogazi-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Raven Hong '22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Artists of the Issue: Raven Hong ’22 and Kyral Ogazi ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Clara Ma ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In anticipation of this year’s unique fall Hotchkiss Dramatic Association (HDA) production, The Festival of Fables, Record Arts interviewed two members of the HDA Tech team. Working behind the scenes with Mr. Derek Brashears, director and instructor in theatre, HDA Tech is essential to the success of HDA performances. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/artists-of-the-issue-raven-hong-22-and-kyral-ogazi-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Musicians Begin on a High Note
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Parth Jain ’24, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Although restrictions from the COVID-19 pandemic have posed an unprecedented challenge for the school’s music education, music teachers and students are prepared to keep music alive.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/musicians-begin-on-a-high-note/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/Romy-VanMierlo-720x900.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/10/athlete-of-the-issue-romy-tarantino-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Matthijs Van Mierlo
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Tarantino practicing on Hoyt Field this October. Girls Varsity Soccer has been focusing on building skills and strength this season.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Romy Tarantino ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Romy Tarantino is a three-year Senior, co-captain of the Girls Varsity Soccer team, and member of the Girls Varsity Lacrosse team. Teammate Lydia Bullock ’22 said, “Romy is nothing short of a great leader. She fearlessly took the role of captain on the soccer team when we didn’t even have a season. She is so kind and never fails to make everyone around her feel like they fit right.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/athlete-of-the-issue-romy-tarantino-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      World Series Begins in Pandemic-Shortened MLB Season
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Nate Seidenstein ’24, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      No one expected the Major League Baseball (MLB) season to end before it even began, but that is exactly what happened on March 12, when the league announced the cancellation of Spring Training due to the COVID-19 pandemic. What followed was the indefinite postponement of the 2020 season Opening Day. Weeks of fighting between the league and the players’ union ensued, as players resisted pay cuts and a shorter season. Both parties eventually agreed upon a compromise – a 60-game season and full prorated pay – setting the tone for one of the strangest and most unprecedented seasons in MLB history.   
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/10/world-series-begins-in-pandemic-shortened-mlb-season/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+            
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Contact Us
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            Do you have an idea you would like us to cover?
+            <a href="https://hotchkissrecord.org/contact/">Contact us or submit an anonymous tip.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20201022/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -1,0 +1,2 @@
+Give a description of the newsletter, this will be used as the email preview. Begin on the next line: 
+This issue, the Features section surveyed the school and interviewed political club heads about the upcoming election.
