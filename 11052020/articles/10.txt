@@ -1,0 +1,20 @@
+Article title (on next line): 
+<i>The Age of Innocence</i>: Read the Book First
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/the-age-of-innocence-read-the-book-first/
+
+Byline (FirstName LastName '19): 
+Ein Jun ’22, Contributing Writer
+
+Content preview: 
+12:00 a.m. Sprawled across the sofa, I instinctively reach for the remote control on the tabletop and turn on Netflix. While scrolling through an endless list of films, <i>The Age of Innocence</i>, directed by Martin Scorsese, was the last film I thought I’d encounter.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Edith Wharton was an early 20th-century American novelist and the first woman to win the Pulitzer Prize.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Public Domain
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/11/1200px-Edith_Newbold_Jones_Wharton.jpg

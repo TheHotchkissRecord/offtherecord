@@ -1,0 +1,20 @@
+Article title (on next line): 
+Varsity Football Focuses on Fundamentals
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/varsity-football-focuses-on-fundamentals/
+
+Byline (FirstName LastName '19): 
+Alex Cheng ’23, Staff Writer
+
+Content preview: 
+After a bounce-back season last year, the Boys Varsity Football faced a challenge this fall. Due to COVID-19-related restrictions, especially on high-contact sports such as football, the team held modified practices. “It was unlike anything we have ever experienced,” said Head Coach Danny Smith. “I have been completely amazed and stunned by how well the kids have adjusted and have been optimistic, energetic, and supportive of each other.”
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+David Li ’21
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Varsity Football in a game against Taft during a previous season.
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/10/FBall.jpg

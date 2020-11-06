@@ -1,0 +1,574 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - November 5, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview></mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, November 5, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            This week, <i>The Record</i> covers the community's response to the ongoing presidential election. News surveys students about their thoughts on leaving campus and recaps the Crop Walk. In addition, Features presents a timeline of student activism at the school and looks back on LGBT month. Opinions writer Stella Ren ’22 argues for a new perspective on journalistic objectivity, and Siri Nellutla ’23 covers the recent Nobel Prize in Chemistry.<br>Arts recaps the Lower Mid Halloween celebrations and the Maria Bissell Hotchkiss rotunda exhibit, and contributor Ein Jun ’22 reviews <i>The Age of Innocence</i>. Varsity Football, Mountain Biking, and Michael Leon ’21 are spotlighted in Sports this week.<br>As this Wednesday's programming has shown, civil discourse plays an especially important role in this unprecedented election. <i>The Record</i> invites community members of all opinions to contribute and join in the conversation. Please be on a lookout for an email with more information on how to sign up for an article. Have a good week, and stay safe.
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/Graphics-1.1.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/community-responds-to-presidential-election/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Annie Xu ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Responds to Presidential Election
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Vivian Shi ’23, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Much of the country was glued to their screens Tuesday night as votes were counted in a tightly contested presidential election between the Republican incumbent, Donald J. Trump, and the Democratic challenger, Joseph R. Biden Jr.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/community-responds-to-presidential-election/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Survey: Why Students Are Considering Leaving Campus
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Kiki Henry ’22, Sander Kuijs ’21 & Isabel Su ’22, News Editors
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Over the past two weeks, a number of students have opted to change their residential status from boarding to remote. This week, News explores the impact of their departures on the student body. The editors sent out a survey to the student body, which received 103 responses.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/impact-of-student-departures/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Crop Walk Tradition Persists
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carolyn Chinatti ’22 & Darina Huang ’23, Contributing Writer & Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Although the COVID-19 pandemic has thrown a wrench in many events, St. Luke’s Society, the school’s largest service club, adapted to new guidelines and hosted the annual Crop Walk on campus on Sunday, November 1. Originally scheduled for October 18, the Crop Walk was delayed by two weeks due to four positive COVID-19 tests and the immediate school-wide quarantine. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/crop-walk-tradition-persists/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      A Timeline of Student Activism
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Eric Jin ’22, Features Editor
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The past months have been a distressing time for many BIPOC individuals in the nation and for other citizens concerned with systemic racism in America. Activists have called for change, as the Black Lives Matter movement spread to every corner of the United States. BIPOC student activists and allies at the school are dedicating themselves to bettering our academic and residential life. To highlight these efforts, the Features section has consolidated some of the events and changes initiated and carried out by students and the administration.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/bipoc-community-efforts-timeline/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/John_Amaechi_OBE.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/community-observes-lbgt-history-month/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Online Source
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Amaechi addressed the community last Wednesday as part of LGBT History Month.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Observes LBGT History Month
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Shannon Meng ’22, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      “Each of you with every interaction has the power to tell somebody who they are. You have the power to tell somebody you think they’re a sinner, the power to tell somebody, just with your face, with your interaction, you think them a monster, or not,” said John Amaechi, psychologist, author, and ex-NBA star who identifies as gay, when he addressed the community last Wednesday, October 28. Amaechi’s speech marked the end of programs recognizing this year’s LGBT History Month. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/community-observes-lbgt-history-month/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Re-envisioning Journalistic Objectivity
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Stella Ren ’22, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Is “Black Lives Matter” a partisan slogan instead of one that addresses moral issues? Is “the white officer shot the black man” more or less objective than political euphemisms like “an officer-involved shooting?” Journalists struggle to present plain facts about the news without taking sides when it comes to moral issues. For far too long, journalism has failed to fulfill its duty to provide information and to not only be factual, but also fair. It is time for us to rethink the value of objectivity. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/re-envisioning-journalistic-objectivity/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Nobel Prize in Chemistry Honors the Growing Power of Women in Sciences
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Siri Nellutla '23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Only 57 women have been awarded a Nobel Prize out of more than 900 recipients.<br>This year’s Nobel Prize in Chemistry was, for the first time, awarded to an exclusively all-female team for their remarkable contributions to the human race. The awardees were Dr. Emmanuelle Charpentier, director of the Max Planck Unit for the Science of Pathogens, and Dr. Jennifer Doudna from the University of California, Berkeley.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/nobel-prize-in-chemistry-honors-the-growing-power-of-women-in-sciences/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/Halloween-costumes.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/lower-mids-lead-halloween-celebrations/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Renée Marcellus
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>From left to right: Raven Hong ’22, Aster Lufkin ’23, and Kyral Ogazi ’21 pose in their halloween costumes.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Lower Mids Lead Halloween Celebrations
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Darina Huang ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Although the annual Lower Mid Halloween dance was not held due to COVID-19 restrictions, students still dressed up in crazy costumes, shot candy through PVC pipes, and ran around with pool noodles during this year’s celebrations!
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/lower-mids-lead-halloween-celebrations/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <!-- Thumbnail -->
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Rotunda Exhibit Highlights Maria Bissell Hotchkiss
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Nithya Chundi ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Although the school was only boys until 1974, it was founded by a woman, Maria Bissell Hotchkiss. Last year, faculty and students worked to create an exhibit shedding light on Bissell’s life, which can now be viewed in the Rotunda.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/rotunda-exhibit-highlights-maria-bissell-hotchkiss/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/1200px-Edith_Newbold_Jones_Wharton.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/the-age-of-innocence-read-the-book-first/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Public Domain
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Edith Wharton was an early 20th-century American novelist and the first woman to win the Pulitzer Prize.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      <i>The Age of Innocence</i>: Read the Book First
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Ein Jun ’22, Contributing Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      12:00 a.m. Sprawled across the sofa, I instinctively reach for the remote control on the tabletop and turn on Netflix. While scrolling through an endless list of films, <i>The Age of Innocence</i>, directed by Martin Scorsese, was the last film I thought I’d encounter.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/the-age-of-innocence-read-the-book-first/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/FBall.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/varsity-football-focuses-on-fundamentals/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Varsity Football in a game against Taft during a previous season.
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>David Li ’21
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Varsity Football Focuses on Fundamentals
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alex Cheng ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      After a bounce-back season last year, the Boys Varsity Football faced a challenge this fall. Due to COVID-19-related restrictions, especially on high-contact sports such as football, the team held modified practices. “It was unlike anything we have ever experienced,” said Head Coach Danny Smith. “I have been completely amazed and stunned by how well the kids have adjusted and have been optimistic, energetic, and supportive of each other.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/varsity-football-focuses-on-fundamentals/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/10094.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/athlete-of-the-issue-michael-leon-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Tom Honan
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>According to Leon, his strengths are “pace, speed, agility, and a little bit of finishing.”
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Michael Leon ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Lauren McLane ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Michael Leon ’21 is a four-year Senior and member of the Boys Varsity Soccer team. Teammate Mo Nuhu ’23 said, “Michael is a role model for so many of us on the soccer team. He is a natural-born leader and tries to help everyone improve. He is a big brother to me and has helped me get through so much here. He makes an impact whenever he is present on the field with us.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/athlete-of-the-issue-michael-leon-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/10/Mountain-Biking-02.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/mountain-biking-embraces-campus-trails/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Matthijs van Mierlo
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The Mountain Biking team in a race last year.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Mountain Biking Embraces Campus Trails
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23, Staff Writer
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      While many teams experienced major restrictions due to COVID-19 protocols, the Co-ed Varsity Mountain Biking team proceeded with minimal changes to its routines and practices. As a naturally socially-distanced sport, safety precautions like restricting close contact had no bearing on the team.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/mountain-biking-embraces-campus-trails/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+            
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Contact Us
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            Do you have an idea you would like us to cover?
+            <a href="https://hotchkissrecord.org/contact/">Contact us or submit an anonymous tip.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20201105/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

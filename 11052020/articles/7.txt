@@ -1,0 +1,19 @@
+Article title (on next line): 
+Nobel Prize in Chemistry Honors the Growing Power of Women in Sciences
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/nobel-prize-in-chemistry-honors-the-growing-power-of-women-in-sciences/
+
+Byline (FirstName LastName '19): 
+Siri Nellutla '23, Staff Writer
+
+Content preview: 
+Only 57 women have been awarded a Nobel Prize out of more than 900 recipients.<br>This year’s Nobel Prize in Chemistry was, for the first time, awarded to an exclusively all-female team for their remarkable contributions to the human race. The awardees were Dr. Emmanuelle Charpentier, director of the Max Planck Unit for the Science of Pathogens, and Dr. Jennifer Doudna from the University of California, Berkeley.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 

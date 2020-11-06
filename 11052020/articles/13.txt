@@ -1,0 +1,20 @@
+Article title (on next line): 
+Mountain Biking Embraces Campus Trails
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/mountain-biking-embraces-campus-trails/
+
+Byline (FirstName LastName '19): 
+Carrie Cao ’23, Staff Writer
+
+Content preview: 
+While many teams experienced major restrictions due to COVID-19 protocols, the Co-ed Varsity Mountain Biking team proceeded with minimal changes to its routines and practices. As a naturally socially-distanced sport, safety precautions like restricting close contact had no bearing on the team.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+The Mountain Biking team in a race last year.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Matthijs van Mierlo
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/10/Mountain-Biking-02.jpg
