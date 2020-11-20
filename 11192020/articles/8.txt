@@ -1,0 +1,20 @@
+Article title (on next line): 
+Meatpacking Companies Fail to Protect Workers During COVID-19
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/meatpacking-companies-fail-to-protect-workers-during-covid-19/
+
+Byline (FirstName LastName '19): 
+Ein Jun ’22
+
+Content preview: 
+COVID-19 has devastated the meat processing industry. The Centers for Disease Control and Prevention (CDC) has reported 16,000 infections and 86 deaths among meatpacking workers – and this is likely a low figure, as many companies have attempted to conceal the true numbers. Eighty-seven percent of all the cases of infections in April and May occurred among racial and ethnic minorities. While Vice President Michael Pence said that the administration would work “tirelessly” to ensure the safety of the workers, the reality does not reflect his promise. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Workers in a hog slaughter and processing plant use hooks and other tools.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+U.S. Government Accountability Office
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/11/Figure_7-_Workers_in_a_Hog_Slaughter_and_Processing_Plant_Use_Hooks_and_Other_Tools_27007559560-900x598.jpg

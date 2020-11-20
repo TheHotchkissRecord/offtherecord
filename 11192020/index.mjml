@@ -1,0 +1,630 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - November 19, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>In this issue, The Record examines the aftermath of the 2020 election.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, November 19, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            In this issue, <i>The Record</i> examines the aftermath of the 2020 election and students’ plans for leaving campus for the winter. We hope everyone has a safe trip and a happy Thanksgiving.
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/49537019241_77d0beaf0d_b.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/biden-wins-with-largest-voter-turnout-in-u-s-history/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Gage Skidmore
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Biden ran a campaign that centered on a promise to “reclaim the soul of the nation.”
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Biden Wins with Largest Voter Turnout in U.S. History
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Benjamin Who ’24
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      As students walked from class to class on the week of November 1st, many checked the Associated Press’ updates on the election repeatedly. On November 7, CNN called the race, with former Vice President Joseph R. Biden Jr. defeating incumbent President Donald J. Trump to become the 46th president of the United States. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/biden-wins-with-largest-voter-turnout-in-u-s-history/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/image-3.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/americans-elect-diverse-representatives/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Ellen Wuibaux
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The next Congress will be more diverse than ever before.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Americans Elect Diverse Representatives
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Vivian Shi ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In 2016, many people were preparing to celebrate the United States’ first female president, Hillary Clinton. Similarly, pollsters predicted Democrats to win a majority in the Senate this year. At the moment, however, people’s predictions are up in the air. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/americans-elect-diverse-representatives/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/diwali-dli-900x599.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/campus-lights-up-with-diyas/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      David Li '21
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Students celebrated Diwali on campus with sparklers.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Campus Lights Up with Diyas
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Parth Jain ’24
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Sparklers are not only used to celebrate July 4th – but Diwali as well.  
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/campus-lights-up-with-diyas/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/Niche-Article-Graphic-3.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/hotchkiss-climbs-2021-niche-rankings/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Arhan Chhabra '22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Niche ranked Hotchkiss as the third-best boarding high school in the U.S.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Hotchkiss Climbs 2021 Niche Rankings
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Benjamin Who ’24
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Niche, an American company that ranks and reviews schools, has just ranked Hotchkiss the third-best boarding high school and the fifth-best high school in America, a significant improvement from fifth and 17th places last year in those categories, respectively. This placement also makes Hotchkiss the top-ranked private high school in Connecticut.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/hotchkiss-climbs-2021-niche-rankings/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/Parting-Graphics-900x502.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/students-depart-for-the-winter/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Annie Xu '22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Students Depart for the Winter
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Lauren McClane ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      After 11 weeks away from family and friends, students on campus will begin returning home over the upcoming weekend. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/students-depart-for-the-winter/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/1200px-Trump_Rally_-900x473.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/to-democrats/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      CTSP2020
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>President Trump waves to the crowd at a rally.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      To Democrats
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Claire Wang ’21
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      At a campaign rally in 2016, President Donald Trump declared, “The silent majority is back, and we’re going to take our country back.” In response to the Black Lives Matter protests last June, he tweeted again “SILENT MAJORITY.” At the time, he was languishing nearly ten points behind Democratic challenger Joe Biden in national polls. Nevertheless, Trump was convinced that a significant portion of Americans had not responded to polls and remained as his adamant supporters. He was right. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/to-democrats/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/0-1-900x636.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/in-defense-of-subjectivity-in-journalism/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Ein Jun ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      In Defense of Subjectivity in Journalism
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Stella Ren ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Is “Black Lives Matter” a partisan slogan? Is “a white officer shot a black man” more or less objective than political euphemisms like “an officer-involved shooting?” Journalists struggle to write about the news without taking sides. However, for far too long, journalism has failed to fulfill its duty not just to be factual, but also to advocate for the truth. It is time for us to rethink the value of objectivity in journalism. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/in-defense-of-subjectivity-in-journalism/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/Figure_7-_Workers_in_a_Hog_Slaughter_and_Processing_Plant_Use_Hooks_and_Other_Tools_27007559560-900x598.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/meatpacking-companies-fail-to-protect-workers-during-covid-19/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      U.S. Government Accountability Office
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Workers in a hog slaughter and processing plant use hooks and other tools.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Meatpacking Companies Fail to Protect Workers During COVID-19
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Ein Jun ’22
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      COVID-19 has devastated the meat processing industry. The Centers for Disease Control and Prevention (CDC) has reported 16,000 infections and 86 deaths among meatpacking workers – and this is likely a low figure, as many companies have attempted to conceal the true numbers. Eighty-seven percent of all the cases of infections in April and May occurred among racial and ethnic minorities. While Vice President Michael Pence said that the administration would work “tirelessly” to ensure the safety of the workers, the reality does not reflect his promise. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/meatpacking-companies-fail-to-protect-workers-during-covid-19/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/Image-11-15-20-at-4.37-PM.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/artist-of-the-issue-luke-gardiner-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Luke Gardiner
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Gardiner’s love for black and white photography led him to shoot his current film project on black and white film.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Artist of the Issue: Luke Gardiner ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Anika Balwada ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Luke Gardiner ’21 is a four-year senior, head of Film Club, co-head of the Gender and Sexuality Alliance (GSA), board member of Hotchkiss Dramatic Association (HDA), proctor, and filmmaker. His latest short film, “Burning,” premiered on campus on November 1. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/artist-of-the-issue-luke-gardiner-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/Screen-Shot-2020-11-14-at-3.41.12-PM-900x563.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/blac-releases-fall-sampler/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      BLAC
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>BLAC released its Fall 2020 sampler in October.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      BLAC Releases Fall Sampler
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Amelie Zhang ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Whether you’re a Black artist or writer looking to submit work or an individual who appreciates student art and writing, the newly-founded Black Literature and Arts Collective magazine (BLAC) will spark your interest.
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/blac-releases-fall-sampler/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/ceramics_dli-900x599.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/winter-co-curriculars-adapt-with-paper-mache-zoom-and-masks/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      David Li '21
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>A student participates in a firing outside the studio.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Winter Co-curriculars Adapt with Paper-Mâché, Zoom, and Masks
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Isabella Wei ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In light of the COVID-19 pandemic, the School has adopted an unprecedented schedule. The winter season this year started two weeks before Thanksgiving break. The season will begin again after students’ return in late February and will run until the end of March. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/winter-co-curriculars-adapt-with-paper-mache-zoom-and-masks/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/mhatch-thonan-900x598.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/athlete-of-the-issue-maggie-hatch-21/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Tom Honan
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Hatch plays goalie for Girls Varsity Hockey in a game during last year’s season.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Maggie Hatch ’21
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Anika Balwada ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Maggie Hatch ’21 is a four-year Senior and captain of Girls Varsity Field Hockey and Girls Varsity Hockey. She plays goalie for ice hockey and has been skating since she was three. Teammate Sarah Holmes ’23 said, “Maggie is one of my biggest role models. She is truly one of the most hardworking kids I know. If there is anyone who embodies all of Hotchkiss’ values, it is Maggie Hatch.”
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/athlete-of-the-issue-maggie-hatch-21/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/IMG_0522-900x506.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/wrestling-adapts-to-covid-19/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Cooper Puls
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Members of the wrestling team pose together in Schmidt Rink.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Wrestling Adapts to COVID-19
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Darina Huang ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Due to COVID-19 restrictions, the Co-ed Varsity Wrestling team has had to implement substantial changes to its training methods and practice structures this year. The Edward R. Davis Wrestling Room, the team’s traditional practice location, was converted into a weight training room, so the team has been relocated to Schmidt Rink, which is now an indoor turf field. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/wrestling-adapts-to-covid-19/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/BvQCmLSeEGSR0Q40TQrZZtvE7LUY9Qpi.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/11/best-season-plan-during-covid-19-the-nhl/
+" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Sochi
+
+    </mj-text>
+    <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The NHL had zero positive tests out of all the players during its season.
+</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Best Season Plan During COVID-19: The NHL
+
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Armaan Haji ’23
+
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      For sports fans, the prospect of not having an end to the 2019-2020 season due to COVID-19 was a horrible one; however, the majority of leagues found a way to end their seasons safely. Nevertheless, this does beg the question: which league had the most successful plan to keep the players, their families, and staff safe from the virus? The National Basketball Association (NBA), National Hockey League (NHL), and Major League Baseball (MLB) all successfully completed their seasons and the National Football League (NFL) has recently started their season. 
+
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/11/best-season-plan-during-covid-19-the-nhl/
+" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+            
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Contact Us
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            Do you have an idea you would like us to cover?
+            <a href="https://hotchkissrecord.org/contact/">Contact us or submit an anonymous tip.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20201119/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

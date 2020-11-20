@@ -1,0 +1,20 @@
+Article title (on next line): 
+To Democrats
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/to-democrats/
+
+Byline (FirstName LastName '19): 
+Claire Wang ’21
+
+Content preview: 
+At a campaign rally in 2016, President Donald Trump declared, “The silent majority is back, and we’re going to take our country back.” In response to the Black Lives Matter protests last June, he tweeted again “SILENT MAJORITY.” At the time, he was languishing nearly ten points behind Democratic challenger Joe Biden in national polls. Nevertheless, Trump was convinced that a significant portion of Americans had not responded to polls and remained as his adamant supporters. He was right. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+President Trump waves to the crowd at a rally.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+CTSP2020
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/11/1200px-Trump_Rally_-900x473.jpg

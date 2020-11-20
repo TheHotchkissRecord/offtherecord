@@ -1,0 +1,20 @@
+Article title (on next line): 
+Americans Elect Diverse Representatives
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/americans-elect-diverse-representatives/
+
+Byline (FirstName LastName '19): 
+Vivian Shi ’23
+
+Content preview: 
+In 2016, many people were preparing to celebrate the United States’ first female president, Hillary Clinton. Similarly, pollsters predicted Democrats to win a majority in the Senate this year. At the moment, however, people’s predictions are up in the air. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+The next Congress will be more diverse than ever before.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Ellen Wuibaux
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/11/image-3.png

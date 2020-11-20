@@ -1,0 +1,2 @@
+Input the editorial message on the next line: 
+In this issue, <i>The Record</i> examines the aftermath of the 2020 election and students’ plans for leaving campus for the winter. We hope everyone has a safe trip and a happy Thanksgiving.

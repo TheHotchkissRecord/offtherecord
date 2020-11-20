@@ -1,0 +1,20 @@
+Article title (on next line): 
+Hotchkiss Climbs 2021 Niche Rankings
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/hotchkiss-climbs-2021-niche-rankings/
+
+Byline (FirstName LastName '19): 
+Benjamin Who ’24
+
+Content preview: 
+Niche, an American company that ranks and reviews schools, has just ranked Hotchkiss the third-best boarding high school and the fifth-best high school in America, a significant improvement from fifth and 17th places last year in those categories, respectively. This placement also makes Hotchkiss the top-ranked private high school in Connecticut.
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Niche ranked Hotchkiss as the third-best boarding high school in the U.S.
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Arhan Chhabra '22
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/11/Niche-Article-Graphic-3.jpg

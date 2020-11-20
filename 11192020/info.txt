@@ -1,0 +1,2 @@
+Give a description of the newsletter, this will be used as the email preview. Begin on the next line: 
+In this issue, The Record examines the aftermath of the 2020 election.

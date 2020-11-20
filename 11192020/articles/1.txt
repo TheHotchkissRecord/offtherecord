@@ -1,0 +1,20 @@
+Article title (on next line): 
+Biden Wins with Largest Voter Turnout in U.S. History
+
+What is the link of the article (next line): 
+https://hotchkissrecord.org/2020/11/biden-wins-with-largest-voter-turnout-in-u-s-history/
+
+Byline (FirstName LastName '19): 
+Benjamin Who ’24
+
+Content preview: 
+As students walked from class to class on the week of November 1st, many checked the Associated Press’ updates on the election repeatedly. On November 7, CNN called the race, with former Vice President Joseph R. Biden Jr. defeating incumbent President Donald J. Trump to become the 46th president of the United States. 
+
+If there is a thumbnail image, give it a caption. Otherwise, leave it blank: 
+Biden ran a campaign that centered on a promise to “reclaim the soul of the nation.”
+
+If there is a thumbnail image, give it a credit or an attribution. Otherwise, leave it blank: 
+Gage Skidmore
+
+If there is a thumbnail image, put the link on the next line. Otherwise, leave it blank. 
+https://hotchkissrecord.org/wp-content/uploads/2020/11/49537019241_77d0beaf0d_b.jpg
