@@ -1,0 +1,284 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - December 03, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>As the remote learning begins, The Record wants to focus on the community’s stories and connect everyone together even though we may be physically separated.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, December 03, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            As the remote learning begins, <i>The Record</i> wants to focus on the community’s stories and connect everyone together even though we may be physically separated: how is your daily routine during online classes? What local news may be happening where you live? Look for an email later tonight with more information on how you can share your experiences. Have a good week.
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/blaise_video-e1606888367723-900x594.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/schools-updated-covid-19-plans-succeed/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Blaise Fleury & Peter Kallos
+    </mj-text> 
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Blaise Fleury ’21 & Peter Kallos ’22 filmed a video outlining rules for student visitation.</i>
+    </mj-text> 
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      School’s Updated COVID-19 Plans Succeed
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      James Yae ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Stringent adherence to public health guidelines allowed the school to successfully complete a fall term with the majority of students and faculty on campus, despite a global pandemic that has infected over 63 million people.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/schools-updated-covid-19-plans-succeed/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/november-break-a-return-to-the-world-of-the-unprecedented/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Voices: November Break: A Return to the World of the Unprecedented
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Sydney Goldstein ’22, Features Editor
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In April 2020, the Features editors started “Community Voices,” a subsection of Features giving contributors the freedom to submit personal vlogs, blogs, journal entries, poems, and other art addressing off-campus living during remote learning. “Community Voices” will return for remote learning this winter; <i>The Record</i> encourages all community members to contribute.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/november-break-a-return-to-the-world-of-the-unprecedented/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/hongkong.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/community-voices-hong-kong-by-the-sky/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Arhan Chhabra ’22
+    </mj-text> 
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Voices: Hong Kong by the Sky
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Arhan Chhabra ’22, Design Editor
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Arhan Chhabra ’22 shot and edited this aerial video of Hong Kong over the summer of 2020. He used a DJI Mavic Air 2 drone to film it, followed by color-grading and editing over a period of a month. The video was selected by <i>Zolima City Magazine</i>, which commissioned him to continue the series and develop an upcoming project for an exhibition in Hong Kong.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/community-voices-hong-kong-by-the-sky/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/IMG_3721.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/the-six-gentlemen-of-shanghai/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Kenny Zhang ’22
+    </mj-text> 
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The view from Jin’s apartment.</i>
+    </mj-text> 
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Voices: The Six Gentlemen of Shanghai
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Eric Jin ’22, Features Editor
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      What would happen if you put six reckless, self-indulging, and undisciplined kids under a roof for a few months?
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/the-six-gentlemen-of-shanghai/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/A-rainy-corner-of-Hong-Kong.jpg-Grace-Li.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/student-artwork-feature/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Grace Li ’21
+    </mj-text> 
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>A rainy corner of Hong Kong</i>
+    </mj-text> 
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Student Artwork Feature
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Yihan Ding ’22 & Stephanie Ge ’22, Arts & Leisure Editors
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      This issue, the Arts & Leisure section features a selection of student artwork submissions highlighting elements of the visual arts curriculum, adjusting to remote learning again, and current global social issues.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/student-artwork-feature/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/swim-mvanmierlo.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/boys-swimming-makes-waves/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Matthijs van Mierlo  
+    </mj-text> 
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The team was restricted to a maximum of 20 people in the pool at once.</i>
+    </mj-text> 
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Boys Swimming Makes Waves
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Intensive off-season training this fall has allowed members of the Boys Swimming team to be in much better shape for the start of the winter season. “I think having two seasons with more or less the same people on the team created a stronger bond within the team,” said co-captain Jeffrey Lim ’21. 
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/boys-swimming-makes-waves/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+            
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Contact Us
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            Do you have an idea you would like us to cover?
+            <a href="https://hotchkissrecord.org/contact/">Contact us or submit an anonymous tip.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20201203/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
