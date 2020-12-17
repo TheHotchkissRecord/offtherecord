@@ -1,0 +1,532 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>Off the Record - December 17, 2020</mj-title>
+    <!-- Description -->
+    <mj-preview>We hope you enjoy our last issue of 2020, with community stories and perspectives from the remote learning period.</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Thursday, December 17, 2020
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            We hope you enjoy our last issue of 2020, with community stories and perspectives from the remote learning period. Happy holidays, and have a great break.
+            <br/><br/> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/2019-12-17_16-22-51_184.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/st-lukes-gives-to-local-community/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Caroline Kenny-Burchfield
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>St. Luke’s Society organizes a toy drive for the local community every year. This year’s drive was held virtually.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      St. Luke’s Gives to Local Community
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Amelie Zhang ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Wood-burning and crystal-growing kits, bath bombs, and play sand dinosaurs were just a few of the items on registries for St. Luke’s annual toy drive.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/st-lukes-gives-to-local-community/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/bahsa-panel-confronts-affirmative-action-myths/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      BaHSA Panel Confronts Affirmative Action Myths
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Vivian Shi ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      With almost one million views, Vox’s video titled “What We Get Wrong about Affirmative Action” opened up the Black and Hispanic Student Association (BaHSA) meeting on Tuesday, December 8. BaHSA hosted a panel on the topic of affirmative action in the college admissions process.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/bahsa-panel-confronts-affirmative-action-myths/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/Record-Flag-Graphic-V2.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/community-conversation-covers-lgbtq-identity/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Arhan Chhabra ’22
+    </mj-text>
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Conversation Covers LGBTQ+ Identity
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Lauren McLane ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      “How can I tell if someone I know is part of the LGBTQ+ community?” was one of the questions submitted by an anonymous community member for the second Community Conversation of the school year.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/community-conversation-covers-lgbtq-identity/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/Screen-Shot-2020-12-16-at-2.52.23-PM.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/covid-19-vaccines-arrive/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Arhan Chhabra ’22
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The Food and Drug Administration (FDA) granted the Pfizer-BioNTech vaccine Emergency Use Authorization on December 10.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      COVID-19 Vaccines Arrive
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Parth Jain ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In recent weeks, the rollout of several COVID-19 vaccines has been a beacon of hope for many as the number of global cases continues to rise.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/covid-19-vaccines-arrive/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-10.21.27-PM-e1608092522427.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/community-voices-hotchkiss-in-shanghai/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Shannon Meng ’22
+    </mj-text>
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Community Voices: Hotchkiss in Shanghai
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Shannon Meng ’22, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      “Community Voices” is a subsection of Features giving contributors the freedom to submit personal vlogs, blogs, journal entries, poems, and other art addressing off-campus living during remote learning. Shannon Meng ’22 vlogs about her experience living with fellow Hotchkiss students in Shanghai.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/community-voices-hotchkiss-in-shanghai/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/image.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/women-of-color-reshaping-american-politics/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      International Business Times
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Harris wore white during her victory speech, a reference to the women’s suffrage movement as a symbol of moral purity.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Women of Color Reshape American Politics
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Siri Nellutla ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In 1916, four years before women won the right to vote, the first woman was elected to the House of Representatives. Jeannette Rankin said, after winning the election, “I may be the first woman in Congress, but I won’t be the last.” There are now 127 women in Congress.<br> This month, Kamala Harris became the first female, the first South Asian, the first person of color, and the first child of immigrants to ever be elected vice president of the United States. Echoing Rankin’s words, Harris said in her victory speech, “While I may be the first woman in this office, I won’t be the last. Because every little girl watching tonight sees that this is a country of possibilities.” Harris winning is a testament to the persistence, struggles, and rise of women in American politics.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/women-of-color-reshaping-american-politics/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/11/5968515949_744bfef952_b-567x900.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/in-defense-of-controversial-literature/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Flicker/cdrummbks
+    </mj-text>
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      In Defense of Controversial Literature
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Felix Bao ’21 & Sachin Umashankar ’21, Contributing Writers
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Nigerian novelist Chinua Achebe advocates for the omission of Joseph Conrad’s imperialist tale <i>Heart of Darkness</i> from the typical selection of classic literature, writing in <i>An Image of Africa</i>, “The question is whether a novel which celebrates…dehumanization, which depersonalizes a portion of the human race, can be called a great work of art.  Our answer is: No, it cannot.” Achebe is wrong.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/in-defense-of-controversial-literature/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/IMG_3218-900x600.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/artist-of-the-issue-angela-choi-21/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Angela Choi
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Choi performs in Weill Recital Hall at Carnegie Hall.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Artist of the Issue: Angela Choi ’21
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Darina Huang ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Angela Choi ’21 is a four-year senior, violinist, concertmaster of the Hotchkiss Orchestra, and student at Juilliard Pre-College. Outside the classroom, she is a co-head of Songs for Smiles, board member of Students for Environmental Action, and proctor in Flinn dormitory.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/artist-of-the-issue-angela-choi-21/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/House13_1-900x599.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/holiday-celebrations-spread-cheer/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      David Li ’21
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>The school usually holds the annual Gingerbread House Build in the Dining Hall. This year, community members decorated their houses over a Zoom call.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Holiday Celebrations Spread Cheer
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Nithya Chundi ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      You can usually find students both eating Sno-Caps and using them for decoration at the annual Gingerbread House Build in the dining hall. This year, the school livestreamed the annual traditions of the Gingerbread House Build and Lessons and Carols.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/holiday-celebrations-spread-cheer/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/AYugc-579x900.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/beneath-the-base-of-the-monolith-an-analysis-of-2001-a-space-odyssey/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Robert McCall
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>A mysterious recreation of the Monoliths from the film was recently found in the Utah desert.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Beneath the Base of the Monolith – An Analysis of 2001: A Space Odyssey
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Clark Dong ’22, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      It has been more than half a century since the release of Stanley Kubrick’s 2001: A Space Odyssey, yet the majestic sci-fi film still leaves its audience perplexed today. This time-bending film revolves around the Monoliths, towering slabs of metallic entity. The film was ahead of its time. It differentiates itself from other sci-fi films of its time not only by the self-awareness and progressiveness in the ideologies of our existence, but also by the cinematography, production design, and the storyline’s sheer depth. It predicted modern technologies such as iPads and artificial intelligence, anticipated the struggle between man and machine, and inspired numerous modern sci-fi classics.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/beneath-the-base-of-the-monolith-an-analysis-of-2001-a-space-odyssey/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/11982_cj-600x900.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/athlete-of-the-issue-cj-mitchell-21/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Mahmood Almadeh ’20
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Mitchell in a March 4, 2020 game against Taft.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: CJ Mitchell ’21
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Carrie Cao ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      CJ Mitchell is a four-year Senior and co-captain of the Boys Varsity Basketball team. Last winter, he earned the Founders All-League Award and an All-Star NEPSAC Class A Honorable Mention. Co-captain Aidan Rodgers ’21 said, “CJ is a great teammate. He is the first man over to pick someone up when they fall. He shows great passion and true leadership on and off the court. He is a fantastic mid-range jump shooter and can take the ball to the basket on bigger defenders.”
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/athlete-of-the-issue-cj-mitchell-21/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/1607914385594-900x636.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/a-look-back-on-an-unprecedented-nfl-season/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Ein Jun ’22
+    </mj-text>
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      A Look Back on An Unprecedented NFL Season
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Rebekah Oppenheimer ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The 2020 NFL season has been one like no other. Whether it’s been the unexpected rise of the Pittsburgh Steelers, the not-so-unexpected collapse of the New York Jets, or the number of players who have contracted COVID-19, it’s fair to say that the 2020 NFL season has been one to remember. As teams head into Week 15 and approach the start of playoffs, there’s still a lot more football to be played.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/a-look-back-on-an-unprecedented-nfl-season/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/working_out_from_home-900x675.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/working-out-from-home/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Lydia Bullock
+    </mj-text>
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Bullock and her family built an ice rink in her backyard so she could practice hockey.</i>
+    </mj-text>
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Working Out From Home!
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Megan Ho ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      With the semester finishing off virtually, how will members of the community stay active? Three athletes tell us how they balance online learning with workouts.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/working-out-from-home/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+<!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2020/12/IMG_0663-900x628.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2020/12/alex-chengs-nba-power-rankings/" />
+  </mj-column>
+</mj-section>
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Claire Wang ’21
+    </mj-text>
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Alex Cheng’s NBA Power Rankings
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alex Cheng ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The 2020-2021 National Basketball Association (NBA) season will return on December 22 with the results from the previous season, the draft, and free agency still simmering. During an expedited off-season, exciting, promising talent was drafted, rumors buzzed around, and big free agents wobbled the NBA landscape. The Eastern Conference will be the most competitive top to bottom that it has been in over a decade, and the powerhouses which comprise the Western Conference make the upcoming season one of fierce competition and uncertainty. Below are my power rankings.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2020/12/alex-chengs-nba-power-rankings/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://thehr.org/corrections">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Contact Us
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            Do you have an idea you would like us to cover?
+            <a href="https://hotchkissrecord.org/contact/">Contact us or submit an anonymous tip.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://newsletter.thehr.org/20201217/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://subscribe.thehr.org/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2020 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
